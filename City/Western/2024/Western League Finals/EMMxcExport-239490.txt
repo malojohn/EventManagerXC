@@ -1,5 +1,251 @@
 Place	Division	FirstName	LastName	School	Gender	Year	Time	Score
 								
+1	1: HS Women's Junior Varsity	Grace	Keefe	Cathedral Catholic HS	F	10	16:38.1	1
+2	1: HS Women's Junior Varsity	Ava	Barrientos	Cathedral Catholic HS	F	11	17:16.5	2
+3	1: HS Women's Junior Varsity	Skyler	Scotten	Point Loma HS	F	9	17:18.2	3
+4	1: HS Women's Junior Varsity	Celia	Thome	Point Loma HS	F	10	17:22.7	4
+5	1: HS Women's Junior Varsity	Lily	Gonzales	Cathedral Catholic HS	F	9	17:26.2	5
+6	1: HS Women's Junior Varsity	Keira	Lazaro	Point Loma HS	F	11	17:45.6	6
+7	1: HS Women's Junior Varsity	Violette	D'Ambrosia	Patrick Henry HS	F	9	17:46.9	7
+8	1: HS Women's Junior Varsity	Phoebe	Brink	Cathedral Catholic HS	F	9	17:50.0	8
+9	1: HS Women's Junior Varsity	Jaselle	Cahill	Point Loma HS	F	11	18:11.7	9
+10	1: HS Women's Junior Varsity	Nadeen	Dessouky	Cathedral Catholic HS	F	10	18:20.4	10
+11	1: HS Women's Junior Varsity	Elizabeth	Dullaghan	Patrick Henry HS	F	9	18:25.2	11
+12	1: HS Women's Junior Varsity	Nora	Witt	Patrick Henry HS	F	10	18:26.1	12
+13	1: HS Women's Junior Varsity	Kajsa	Blendulf	Point Loma HS	F	9	18:28.5	13
+14	1: HS Women's Junior Varsity	Emma	Stutzman	Point Loma HS	F	10	18:36.8	0
+15	1: HS Women's Junior Varsity	Olivia	Lewis	Cathedral Catholic HS	F	11	18:39.9	0
+16	1: HS Women's Junior Varsity	Colby	Russell	Point Loma HS	F	11	18:50.2	
+17	1: HS Women's Junior Varsity	Mikayla	Novotny	Cathedral Catholic HS	F	10	18:50.7	
+18	1: HS Women's Junior Varsity	Amaya	Adelman	Cathedral Catholic HS	F	9	18:51.1	
+19	1: HS Women's Junior Varsity	Vivian	Saffian	Cathedral Catholic HS	F	9	18:51.6	
+20	1: HS Women's Junior Varsity	Sarah	Hamilton	University City HS	F	10	18:53.1	
+21	1: HS Women's Junior Varsity	Layla	Herriges	Point Loma HS	F	9	18:54.7	
+22	1: HS Women's Junior Varsity	Ella	Blazie	Point Loma HS	F	9	19:04.7	
+23	1: HS Women's Junior Varsity	Aven	Harper	Scripps Ranch HS	F	10	19:22.1	18
+24	1: HS Women's Junior Varsity	Violeta	Franco	University City HS	F	11	19:23.9	
+25	1: HS Women's Junior Varsity	Natalie	Schnaible	Point Loma HS	F	9	19:25.0	
+26	1: HS Women's Junior Varsity	Angela	Herd	Scripps Ranch HS	F	10	19:31.0	19
+27	1: HS Women's Junior Varsity	Emmeline	Chen	Scripps Ranch HS	F	11	19:32.4	20
+28	1: HS Women's Junior Varsity	Bella	Brancheau	Cathedral Catholic HS	F	10	19:54.0	
+29	1: HS Women's Junior Varsity	Annabelle	Hullinger	Point Loma HS	F	12	19:55.0	
+30	1: HS Women's Junior Varsity	Malibu	Burton	Scripps Ranch HS	F	12	19:56.1	21
+31	1: HS Women's Junior Varsity	Giselle	De Carvalho Breton	Point Loma HS	F	9	20:16.7	
+32	1: HS Women's Junior Varsity	Ellison	Boney	Point Loma HS	F	10	20:20.6	
+33	1: HS Women's Junior Varsity	Mya	Connolly	Cathedral Catholic HS	F	10	20:37.7	
+34	1: HS Women's Junior Varsity	Nakaya	Zanoni	Cathedral Catholic HS	F	9	20:38.7	
+35	1: HS Women's Junior Varsity	Favor	Eze	Cathedral Catholic HS	F	9	20:54.7	
+36	1: HS Women's Junior Varsity	Emma	Garro	Cathedral Catholic HS	F	12	20:57.4	
+37	1: HS Women's Junior Varsity	Emma	Cloward	Patrick Henry HS	F	11	21:03.2	22
+38	1: HS Women's Junior Varsity	Bailey	Logan	Point Loma HS	F	9	21:03.7	
+39	1: HS Women's Junior Varsity	Cara	Leo	Cathedral Catholic HS	F	9	21:04.0	
+40	1: HS Women's Junior Varsity	Hagen	Lindeman	Cathedral Catholic HS	F	10	21:18.2	
+41	1: HS Women's Junior Varsity	Hana	Connolly	Point Loma HS	F	9	21:24.7	
+42	1: HS Women's Junior Varsity	Natalie	Martinez	Point Loma HS	F	11	21:28.3	
+43	1: HS Women's Junior Varsity	Ava	Shiraishi	Patrick Henry HS	F	9	21:28.6	23
+44	1: HS Women's Junior Varsity	Diana	Lemon-Ames	Mira Mesa HS	F	10	21:30.9	24
+45	1: HS Women's Junior Varsity	Lexie	Ngo	Scripps Ranch HS	F	9	21:37.5	25
+46	1: HS Women's Junior Varsity	Riley	Danielson	Cathedral Catholic HS	F	9	21:38.2	
+47	1: HS Women's Junior Varsity	Stephanie	Clay	Mira Mesa HS	F	10	21:57.0	26
+48	1: HS Women's Junior Varsity	Jessica	Van Houten	Patrick Henry HS	F	11	21:59.4	0
+49	1: HS Women's Junior Varsity	Maya	Schonian	Point Loma HS	F	9	22:15.3	
+50	1: HS Women's Junior Varsity	Ruby	Aguilera	Patrick Henry HS	F	10	22:26.0	
+51	1: HS Women's Junior Varsity	Scarlett	Rivera	Point Loma HS	F	9	22:27.5	
+52	1: HS Women's Junior Varsity	Alina	Egoudine	Scripps Ranch HS	F	10	22:36.3	0
+53	1: HS Women's Junior Varsity	Alexa	McHugh	Cathedral Catholic HS	F	12	22:41.0	
+54	1: HS Women's Junior Varsity	Caelyn	Lien	Mira Mesa HS	F	10	23:01.2	30
+55	1: HS Women's Junior Varsity	Kiley	McAweeney	Cathedral Catholic HS	F	10	23:18.5	
+56	1: HS Women's Junior Varsity	Ivanna	Lemon-Ames	Mira Mesa HS	F	11	23:32.0	31
+57	1: HS Women's Junior Varsity	Leslie	Ortega	Mira Mesa HS	F	9	23:42.9	32
+58	1: HS Women's Junior Varsity	Isabella	Kim	Scripps Ranch HS	F	9	23:44.8	
+59	1: HS Women's Junior Varsity	Lola	Chambers	Point Loma HS	F	9	23:52.6	
+60	1: HS Women's Junior Varsity	Madeline	Widenhofer	Scripps Ranch HS	F	10	23:55.7	
+61	1: HS Women's Junior Varsity	Kate	Stroud	Cathedral Catholic HS	F	9	25:29.6	
+62	1: HS Women's Junior Varsity	Krista	Leon	Cathedral Catholic HS	F	11	25:36.5	
+63	1: HS Women's Junior Varsity	Olivia	Harrison	Patrick Henry HS	F	10	27:40.3	
+64	1: HS Women's Junior Varsity	Brooks	Evans	Point Loma HS	F	10	28:18.1	
+								
+1	2: HS Men's Junior Varsity	Joseph	Wilpitz	Mira Mesa HS	M	10	18:24.2	1
+2	2: HS Men's Junior Varsity	Jonah	Mesa	Point Loma HS	M	10	18:36.4	2
+3	2: HS Men's Junior Varsity	Seamus	Egan	Point Loma HS	M	10	18:37.6	3
+4	2: HS Men's Junior Varsity	Freddy	Derheimer	Cathedral Catholic HS	M	9	18:44.6	4
+5	2: HS Men's Junior Varsity	Adam	McNeil	Patrick Henry HS	M	10	18:52.7	5
+6	2: HS Men's Junior Varsity	Farris	Hammad	Point Loma HS	M	9	18:53.3	6
+7	2: HS Men's Junior Varsity	Daron	Tokatlian	Point Loma HS	M	9	18:57.1	7
+8	2: HS Men's Junior Varsity	Wyatt	Smith	Point Loma HS	M	9	18:59.2	8
+9	2: HS Men's Junior Varsity	Luke	Waterman	Point Loma HS	M	9	19:04.5	0
+10	2: HS Men's Junior Varsity	Darius	Hixon	Mira Mesa HS	M	10	19:09.7	10
+11	2: HS Men's Junior Varsity	Luis Fabian	Izaguirre	Patrick Henry HS	M	11	19:15.2	11
+12	2: HS Men's Junior Varsity	Edward	Gergurich	Scripps Ranch HS	M	11	19:18.5	12
+13	2: HS Men's Junior Varsity	Dante	Morales	Point Loma HS	M	10	19:21.3	
+14	2: HS Men's Junior Varsity	James	Melancon	Scripps Ranch HS	M	9	19:25.3	14
+15	2: HS Men's Junior Varsity	Gavin	Greenspan	Scripps Ranch HS	M	9	19:26.3	15
+16	2: HS Men's Junior Varsity	Nico	Fernandez	Patrick Henry HS	M	10	19:30.7	16
+17	2: HS Men's Junior Varsity	Brice	Cobbs	Mira Mesa HS	M	11	19:34.0	17
+18	2: HS Men's Junior Varsity	Travis	Ross	Point Loma HS	M	11	19:44.5	
+19	2: HS Men's Junior Varsity	Dante	Hinckley	Scripps Ranch HS	M	10	19:52.2	18
+20	2: HS Men's Junior Varsity	Ryan	Richardson	Cathedral Catholic HS	M	9	19:52.8	19
+21	2: HS Men's Junior Varsity	Rohan	Huynh	Patrick Henry HS	M	11	19:53.8	20
+22	2: HS Men's Junior Varsity	Cosmo	Fornaro	Cathedral Catholic HS	M	9	19:57.5	21
+23	2: HS Men's Junior Varsity	Franklin	Rutt	Point Loma HS	M	10	19:58.6	
+24	2: HS Men's Junior Varsity	Raymond	Betancourt	Mira Mesa HS	M	9	20:00.5	22
+25	2: HS Men's Junior Varsity	Colin	Myers	University City HS	M	9	20:01.7	23
+26	2: HS Men's Junior Varsity	Scott	Perry	Scripps Ranch HS	M	10	20:07.4	24
+27	2: HS Men's Junior Varsity	Zackary	Watkin	Patrick Henry HS	M	10	20:09.8	25
+28	2: HS Men's Junior Varsity	Isaac	Olivos	Mira Mesa HS	M	9	20:10.1	26
+29	2: HS Men's Junior Varsity	David	Kostrinsky	Patrick Henry HS	M	10	20:10.7	0
+30	2: HS Men's Junior Varsity	Max	Moscato	Cathedral Catholic HS	M	9	20:10.9	28
+31	2: HS Men's Junior Varsity	Jack	Jennings	Cathedral Catholic HS	M	10	20:15.3	29
+32	2: HS Men's Junior Varsity	Dalton	d'Almaine-Vedral	Mira Mesa HS	M	10	20:18.5	0
+33	2: HS Men's Junior Varsity	Matthew	Boley	Cathedral Catholic HS	M	12	20:20.3	0
+34	2: HS Men's Junior Varsity	Martin	Arsenault	Mira Mesa HS	M	11	20:25.6	
+35	2: HS Men's Junior Varsity	Nathan	Nguyen	Patrick Henry HS	M	11	20:28.5	
+36	2: HS Men's Junior Varsity	Micah	Kollmeyer	Scripps Ranch HS	M	11	20:35.6	0
+37	2: HS Men's Junior Varsity	Arush	Sastry	Scripps Ranch HS	M	9	20:36.8	
+38	2: HS Men's Junior Varsity	Kai	Dalton	Point Loma HS	M	9	20:37.2	
+39	2: HS Men's Junior Varsity	Kaleo	MacDonald	Point Loma HS	M	10	20:41.8	
+40	2: HS Men's Junior Varsity	Wesley	Logan	Point Loma HS	M	11	20:43.3	
+41	2: HS Men's Junior Varsity	Seeger	Perry	Cathedral Catholic HS	M	10	20:43.7	
+42	2: HS Men's Junior Varsity	Myles	Deadrick	Patrick Henry HS	M	9	20:44.0	
+43	2: HS Men's Junior Varsity	Kyle	Kriz	Mira Mesa HS	M	10	20:46.2	
+44	2: HS Men's Junior Varsity	Harlan	Schmaltz	Scripps Ranch HS	M	9	20:50.2	
+45	2: HS Men's Junior Varsity	Grady	Clark	Point Loma HS	M	12	20:51.4	
+46	2: HS Men's Junior Varsity	Cooper	Zlotnik	Point Loma HS	M	9	20:51.7	
+47	2: HS Men's Junior Varsity	Jack	Disch	Point Loma HS	M	10	20:53.5	
+48	2: HS Men's Junior Varsity	Colin	Rahilly	Point Loma HS	M	9	20:55.2	
+49	2: HS Men's Junior Varsity	Benjamin	Steinhauer	Point Loma HS	M	12	20:59.4	
+50	2: HS Men's Junior Varsity	Landon	Palmer	Point Loma HS	M	9	21:00.8	
+51	2: HS Men's Junior Varsity	Arden	Aguilo	Mira Mesa HS	M	9	21:04.4	
+52	2: HS Men's Junior Varsity	Jack	Shuey	Scripps Ranch HS	M	9	21:05.3	
+53	2: HS Men's Junior Varsity	Vincent	Monico	Cathedral Catholic HS	M	12	21:10.4	
+54	2: HS Men's Junior Varsity	Ryan	Monahan	Cathedral Catholic HS	M	9	21:16.9	
+55	2: HS Men's Junior Varsity	Gianluca	Corona	Cathedral Catholic HS	M	10	21:17.2	
+56	2: HS Men's Junior Varsity	Kuro	Stanich	University City HS	M	9	21:18.4	37
+57	2: HS Men's Junior Varsity	Timothy	Ehlert	Mira Mesa HS	M	10	21:20.3	
+58	2: HS Men's Junior Varsity	Viktor	Tautz	University City HS	M	10	21:21.3	38
+59	2: HS Men's Junior Varsity	Dante	Macina	Point Loma HS	M	10	21:21.9	
+60	2: HS Men's Junior Varsity	Gabriel	Shaffer	Scripps Ranch HS	M	9	21:23.7	
+61	2: HS Men's Junior Varsity	Charles	Mitchell	Point Loma HS	M	9	21:25.8	
+62	2: HS Men's Junior Varsity	Taran	Bheemagani	Scripps Ranch HS	M	9	21:28.3	
+63	2: HS Men's Junior Varsity	Paul	Bacich	Cathedral Catholic HS	M	9	21:35.4	
+64	2: HS Men's Junior Varsity	Harold	Zlotnik	Point Loma HS	M	9	21:40.5	
+65	2: HS Men's Junior Varsity	Zachary	Treadwell	Point Loma HS	M	9	21:40.7	
+66	2: HS Men's Junior Varsity	Garrett	Fordyce	Mira Mesa HS	M	9	21:42.7	
+67	2: HS Men's Junior Varsity	Jonah	Yee	University City HS	M	9	21:48.5	39
+68	2: HS Men's Junior Varsity	Hudson	Warner	Point Loma HS	M	11	21:49.9	
+69	2: HS Men's Junior Varsity	Raphael	Sitapati	Scripps Ranch HS	M	11	21:52.9	
+70	2: HS Men's Junior Varsity	Lucas	Liao	Mira Mesa HS	M	12	21:56.2	
+71	2: HS Men's Junior Varsity	Samuel	Kirian	Point Loma HS	M	11	21:57.3	
+72	2: HS Men's Junior Varsity	Cole	Gouslin	Cathedral Catholic HS	M	11	21:59.4	
+73	2: HS Men's Junior Varsity	Hudson	Kenis	Scripps Ranch HS	M	9	22:00.3	
+74	2: HS Men's Junior Varsity	Beckett	Gilmour	Point Loma HS	M	9	22:00.7	
+75	2: HS Men's Junior Varsity	Travis	Tang	Cathedral Catholic HS	M	11	22:04.5	
+76	2: HS Men's Junior Varsity	Bruce	Vosovic	Scripps Ranch HS	M	10	22:05.1	
+77	2: HS Men's Junior Varsity	Evinn	Pamelar	Mira Mesa HS	M	10	22:06.2	
+78	2: HS Men's Junior Varsity	Winston	Khongsaly	Mira Mesa HS	M	10	22:06.4	
+79	2: HS Men's Junior Varsity	Casper	Knufken	Patrick Henry HS	M	10	22:12.8	
+80	2: HS Men's Junior Varsity	Mason	Thomas	Scripps Ranch HS	M	10	22:17.9	
+81	2: HS Men's Junior Varsity	Sanskar	Sharma	University City HS	M	10	22:18.1	40
+82	2: HS Men's Junior Varsity	Anthony	Malubay	Mira Mesa HS	M	12	22:21.0	
+83	2: HS Men's Junior Varsity	Benjamin	Kozlik	Patrick Henry HS	M	10	22:27.2	
+84	2: HS Men's Junior Varsity	James	Beagin	Cathedral Catholic HS	M	10	22:33.4	
+85	2: HS Men's Junior Varsity	Lucas	Evans	Scripps Ranch HS	M	9	22:39.6	
+86	2: HS Men's Junior Varsity	Collin	Gutche	Scripps Ranch HS	M	10	22:40.6	
+87	2: HS Men's Junior Varsity	Ryan	Phipps	Scripps Ranch HS	M	9	22:41.2	
+88	2: HS Men's Junior Varsity	Henry	Crivello	Scripps Ranch HS	M	10	22:42.5	
+89	2: HS Men's Junior Varsity	Pratham	Tomar	Scripps Ranch HS	M	9	22:43.1	
+90	2: HS Men's Junior Varsity	Simon	Nguyen	Mira Mesa HS	M	12	22:43.4	
+91	2: HS Men's Junior Varsity	Jonathan	Danh	Mira Mesa HS	M	10	22:43.7	
+92	2: HS Men's Junior Varsity	Mason	Hanks	Scripps Ranch HS	M	9	22:50.7	
+93	2: HS Men's Junior Varsity	Calvin	Millang	Patrick Henry HS	M	9	22:55.2	
+94	2: HS Men's Junior Varsity	Caleb	Gizaw	Cathedral Catholic HS	M	11	22:57.3	
+95	2: HS Men's Junior Varsity	Aeron	Hunter	Point Loma HS	M	10	22:58.5	
+96	2: HS Men's Junior Varsity	Jake	Faria	Point Loma HS	M	9	23:02.3	
+97	2: HS Men's Junior Varsity	Bradley	Ramos	Point Loma HS	M	10	23:03.7	
+98	2: HS Men's Junior Varsity	Judah	Ferreira	Point Loma HS	M	10	23:04.0	
+99	2: HS Men's Junior Varsity	Matthew	Beaton	University City HS	M	10	23:05.2	0
+100	2: HS Men's Junior Varsity	Likhith	Nagesh Reddy	Scripps Ranch HS	M	10	23:15.2	
+101	2: HS Men's Junior Varsity	Dominic	Willis	Scripps Ranch HS	M	10	23:17.7	
+102	2: HS Men's Junior Varsity	Anthony	Slosar	Cathedral Catholic HS	M	9	23:20.9	
+103	2: HS Men's Junior Varsity	Haresh	Baskar	Mira Mesa HS	M	11	23:25.3	
+104	2: HS Men's Junior Varsity	Mason	Meathe	Cathedral Catholic HS	M	10	23:28.8	
+105	2: HS Men's Junior Varsity	Mateo	Sheehy	Point Loma HS	M	9	23:39.4	
+106	2: HS Men's Junior Varsity	Max	Aminoff	Point Loma HS	M	9	23:40.8	
+107	2: HS Men's Junior Varsity	Holden	Schroeder	Scripps Ranch HS	M	10	23:43.9	
+108	2: HS Men's Junior Varsity	Isaac	Duran	Cathedral Catholic HS	M	11	23:50.9	
+109	2: HS Men's Junior Varsity	Enrique	Gomez-Amuedo	Point Loma HS	M	10	23:51.6	
+110	2: HS Men's Junior Varsity	Jayden	Hoang	Cathedral Catholic HS	M	11	23:59.3	
+111	2: HS Men's Junior Varsity	Jacob	Edison	Patrick Henry HS	M	10	24:03.7	
+112	2: HS Men's Junior Varsity	Dylan	Arbogast	Cathedral Catholic HS	M	10	24:04.6	
+113	2: HS Men's Junior Varsity	Jacob	Noble	University City HS	M	10	24:06.9	
+114	2: HS Men's Junior Varsity	Samuel	Pastor	Scripps Ranch HS	M	9	24:07.3	
+115	2: HS Men's Junior Varsity	Diego	Lamuno	Cathedral Catholic HS	M	12	24:19.6	
+116	2: HS Men's Junior Varsity	Matteo	Briseno	Scripps Ranch HS	M	9	24:22.9	
+117	2: HS Men's Junior Varsity	Patrick	Rahilly	Point Loma HS	M	10	24:26.3	
+118	2: HS Men's Junior Varsity	Lukas	Pascual	Cathedral Catholic HS	M	11	24:27.7	
+119	2: HS Men's Junior Varsity	Garrett	Fox	Patrick Henry HS	M	10	24:31.8	
+120	2: HS Men's Junior Varsity	Bruno	Lamuno	Cathedral Catholic HS	M	9	25:20.0	
+121	2: HS Men's Junior Varsity	Luke	Stephenson	Patrick Henry HS	M	9	25:29.3	
+122	2: HS Men's Junior Varsity	Colin	Harrison	University City HS	M	11	25:38.2	
+123	2: HS Men's Junior Varsity	Alessandro	Marino	Cathedral Catholic HS	M	12	25:42.7	
+124	2: HS Men's Junior Varsity	Alexander	Herrera	University City HS	M	9	26:08.2	
+125	2: HS Men's Junior Varsity	Jacen	Laco	Scripps Ranch HS	M	10	26:38.2	
+126	2: HS Men's Junior Varsity	Diego	Barrios-Barba	Cathedral Catholic HS	M	9	26:50.6	
+127	2: HS Men's Junior Varsity	Nico	Portillo	Cathedral Catholic HS	M	9	29:01.0	
+128	2: HS Men's Junior Varsity	Shay	Giffen	Scripps Ranch HS	M	10	30:37.2	
+								
+1	3: HS Women's Varsity	Hannah	Aguirre	Patrick Henry HS	F	12	18:10.0	1
+2	3: HS Women's Varsity	Jocelyn	Gibson	Cathedral Catholic HS	F	12	18:14.2	2
+3	3: HS Women's Varsity	Kelly	McIntire	Point Loma HS	F	10	18:49.3	3
+4	3: HS Women's Varsity	Miriam	Aguirre	Patrick Henry HS	F	12	19:00.9	4
+5	3: HS Women's Varsity	Olivia	Liu	Scripps Ranch HS	F	9	19:05.0	5
+6	3: HS Women's Varsity	Liesel	Sellerberg	Cathedral Catholic HS	F	11	19:08.2	6
+7	3: HS Women's Varsity	Riley	Martin	Scripps Ranch HS	F	10	19:13.8	7
+8	3: HS Women's Varsity	Jada	Kim	Scripps Ranch HS	F	11	19:20.7	8
+9	3: HS Women's Varsity	Darcy	Ray	University City HS	F	12	19:24.7	9
+10	3: HS Women's Varsity	Ellie	Cannon	Scripps Ranch HS	F	10	19:26.6	10
+11	3: HS Women's Varsity	Ally	Van Duren	Scripps Ranch HS	F	12	19:32.1	11
+12	3: HS Women's Varsity	Isabella	Ramos	Point Loma HS	F	11	19:37.6	12
+13	3: HS Women's Varsity	Chiara	Bonomi	Cathedral Catholic HS	F	12	19:38.0	13
+14	3: HS Women's Varsity	Sara	Geiszler	Point Loma HS	F	11	19:38.9	14
+15	3: HS Women's Varsity	Nicole	Witt	Point Loma HS	F	11	19:46.8	15
+16	3: HS Women's Varsity	Patsy	Hellmann	Cathedral Catholic HS	F	11	19:51.0	16
+17	3: HS Women's Varsity	Callie	Schulteis	Cathedral Catholic HS	F	10	19:57.0	17
+18	3: HS Women's Varsity	Eva	Cruz	Patrick Henry HS	F	11	20:03.6	18
+19	3: HS Women's Varsity	Paige	Eudy	Point Loma HS	F	10	20:08.8	19
+20	3: HS Women's Varsity	Michelle	Cai	Scripps Ranch HS	F	12	20:10.7	0
+21	3: HS Women's Varsity	Eva	Vander Zwart	Scripps Ranch HS	F	11	20:21.7	
+22	3: HS Women's Varsity	Amelia	Kirkegaard	Patrick Henry HS	F	12	20:24.3	22
+23	3: HS Women's Varsity	Corinne	Santoro	Point Loma HS	F	10	20:33.3	0
+24	3: HS Women's Varsity	Natalia	Velayudhan	Cathedral Catholic HS	F	12	20:38.3	0
+25	3: HS Women's Varsity	Tegan	Koranda	Scripps Ranch HS	F	10	20:38.9	
+26	3: HS Women's Varsity	Cassandra	Casalins-DeBoskey	Patrick Henry HS	F	10	20:43.4	25
+27	3: HS Women's Varsity	Tayler	Warner	Scripps Ranch HS	F	12	20:58.3	
+28	3: HS Women's Varsity	Erin	O'Beirne	University City HS	F	12	21:06.9	26
+29	3: HS Women's Varsity	Zoe	Boes	Point Loma HS	F	11	21:15.4	
+30	3: HS Women's Varsity	Kathryn	Mokhov	Patrick Henry HS	F	12	21:19.7	0
+31	3: HS Women's Varsity	Eva	Smith	Cathedral Catholic HS	F	10	21:29.5	
+32	3: HS Women's Varsity	Kristine	Bickler	Cathedral Catholic HS	F	10	21:34.7	
+33	3: HS Women's Varsity	Hannah	Sperling	Cathedral Catholic HS	F	11	21:35.4	
+34	3: HS Women's Varsity	Samantha	Mitchell	Mira Mesa HS	F	11	21:38.4	
+35	3: HS Women's Varsity	Eva	Casalins-DeBoskey	Patrick Henry HS	F	10	21:40.1	
+36	3: HS Women's Varsity	Coral	Cameron	Point Loma HS	F	10	21:48.5	
+37	3: HS Women's Varsity	Isabelle	Schaefer	Patrick Henry HS	F	9	21:55.4	
+38	3: HS Women's Varsity	Annie	Guhse	Point Loma HS	F	12	21:56.1	
+39	3: HS Women's Varsity	Jenna	Piech	University City HS	F	10	22:02.8	31
+40	3: HS Women's Varsity	Hannah	Nevius	Patrick Henry HS	F	12	22:05.8	
+41	3: HS Women's Varsity	Sonya	Vance	Patrick Henry HS	F	10	22:13.7	
+42	3: HS Women's Varsity	Cailin	Gutierrez	University City HS	F	12	22:16.1	32
+43	3: HS Women's Varsity	Ana	Radilla	Cathedral Catholic HS	F	12	22:30.9	
+44	3: HS Women's Varsity	Bree Ann	Carroll	Point Loma HS	F	9	22:32.7	
+45	3: HS Women's Varsity	Gheeriel	Bernabe	Mira Mesa HS	F	11	22:33.7	
+46	3: HS Women's Varsity	Arya	Kim	University City HS	F	11	22:39.3	33
+47	3: HS Women's Varsity	Keylie	Espinoza-Arevalo	Cathedral Catholic HS	F	12	22:46.3	
+48	3: HS Women's Varsity	Celine	Comia	Mira Mesa HS	F	11	23:26.8	
+49	3: HS Women's Varsity	Lila	Mercer	Patrick Henry HS	F	10	23:34.6	
+50	3: HS Women's Varsity	Mika	Bachand	Scripps Ranch HS	F	11	23:41.3	
+51	3: HS Women's Varsity	Adelia	Gabriel	Mira Mesa HS	F	12	24:19.2	
+								
 1	4: HS Men's Varsity	Nathan	Wilber	Cathedral Catholic HS	M	11	16:02.8	1
 2	4: HS Men's Varsity	Benjamin	Stephens	Scripps Ranch HS	M	11	16:09.1	2
 3	4: HS Men's Varsity	Nathan	Bamford	Scripps Ranch HS	M	11	16:20.7	3
@@ -62,6 +308,27 @@ Place	Division	FirstName	LastName	School	Gender	Year	Time	Score
 60	4: HS Men's Varsity	Quinner	Riehl	Scripps Ranch HS	M	12	22:35.9	
 								
 Division	Place	Abbrev	School	Score				
+								
+1: HS Women's Junior Varsity	1	Cathedral Catholic HS		26				
+1: HS Women's Junior Varsity	2	Point Loma HS		35				
+1: HS Women's Junior Varsity	3	Patrick Henry HS		75				
+1: HS Women's Junior Varsity	4	Scripps Ranch HS		103				
+1: HS Women's Junior Varsity	5	Mira Mesa HS		143				
+1: HS Women's Junior Varsity	6	University City HS		INC				
+								
+2: HS Men's Junior Varsity	1	Point Loma HS		26				
+2: HS Men's Junior Varsity	2	Mira Mesa HS		76				
+2: HS Men's Junior Varsity	3	Patrick Henry HS		77				
+2: HS Men's Junior Varsity	4	Scripps Ranch HS		83				
+2: HS Men's Junior Varsity	5	Cathedral Catholic HS		101				
+2: HS Men's Junior Varsity	6	University City HS		177				
+								
+3: HS Women's Varsity	1	Scripps Ranch HS		41				
+3: HS Women's Varsity	2	Cathedral Catholic HS		54				
+3: HS Women's Varsity	3	Point Loma HS		63				
+3: HS Women's Varsity	4	Patrick Henry HS		70				
+3: HS Women's Varsity	5	University City HS		131				
+3: HS Women's Varsity	6	Mira Mesa HS		INC				
 								
 4: HS Men's Varsity	1	Cathedral Catholic HS		30				
 4: HS Men's Varsity	2	Scripps Ranch HS		38				
