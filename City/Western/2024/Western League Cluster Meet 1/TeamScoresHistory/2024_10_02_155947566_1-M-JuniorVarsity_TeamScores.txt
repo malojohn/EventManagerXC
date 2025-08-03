@@ -1,0 +1,8 @@
+Division	Place	Abbrev	School	Score				
+								
+1: HS Men's Junior Varsity	1	Mira Mesa HS		34				
+1: HS Men's Junior Varsity	2	Cathedral Catholic HS		35				
+1: HS Men's Junior Varsity	3	Patrick Henry HS		85				
+1: HS Men's Junior Varsity	4	Point Loma HS		86				
+1: HS Men's Junior Varsity	5	Scripps Ranch HS		119				
+1: HS Men's Junior Varsity	6	University City HS		178				

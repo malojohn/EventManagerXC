@@ -1,0 +1,8 @@
+Division	Place	Abbrev	School	Score				
+								
+4: HS Women's Junior Varsity	1	Cathedral Catholic HS	CACA	25				
+4: HS Women's Junior Varsity	2	Point Loma HS	PTLO	57				
+4: HS Women's Junior Varsity	3	Mira Mesa HS	MIME	81				
+4: HS Women's Junior Varsity	4	Patrick Henry HS	PAHE	89				
+4: HS Women's Junior Varsity	5	Scripps Ranch HS	SCRA	110				
+4: HS Women's Junior Varsity		University City HS	UNCI	INC				

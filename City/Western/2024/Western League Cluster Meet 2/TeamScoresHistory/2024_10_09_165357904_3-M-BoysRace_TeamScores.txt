@@ -1,0 +1,8 @@
+Division	Place	Abbrev	School	Score				
+								
+3: HS Men's Boys Race	1	Mira Mesa HS		34				
+3: HS Men's Boys Race	2	Cathedral Catholic HS		59				
+3: HS Men's Boys Race	3	Point Loma HS		63				
+3: HS Men's Boys Race	4	Patrick Henry HS		107				
+3: HS Men's Boys Race	5	Scripps Ranch HS		107				
+3: HS Men's Boys Race	6	University City HS		140				

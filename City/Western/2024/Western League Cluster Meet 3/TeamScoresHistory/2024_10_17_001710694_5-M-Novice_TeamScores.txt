@@ -1,0 +1,8 @@
+Division	Place	Abbrev	School	Score				
+								
+5: HS Men's Novice	1	Point Loma HS		36				
+5: HS Men's Novice	2	Scripps Ranch HS		61				
+5: HS Men's Novice	3	Mira Mesa HS		68				
+5: HS Men's Novice	4	Cathedral Catholic HS		83				
+5: HS Men's Novice	5	University City HS		122				
+5: HS Men's Novice	6	Patrick Henry HS		INC				

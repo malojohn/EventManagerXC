@@ -1,0 +1,59 @@
+Place	Division	FirstName	LastName	School	Gender	Year	Time	Score
+								
+1	3: HS Women's Varsity	Hannah	Aguirre	Patrick Henry HS	F	12	18:12.3	1
+2	3: HS Women's Varsity	Jocelyn	Gibson	Cathedral Catholic HS	F	12	18:15.8	2
+3	3: HS Women's Varsity	Jada	Kim	Scripps Ranch HS	F	11	18:27.1	3
+4	3: HS Women's Varsity	Isabella	Ramos	Point Loma HS	F	11	18:35.8	4
+5	3: HS Women's Varsity	Kelly	McIntire	Point Loma HS	F	10	18:42.2	5
+6	3: HS Women's Varsity	Ellie	Cannon	Scripps Ranch HS	F	10	18:43.3	6
+7	3: HS Women's Varsity	Ally	Van Duren	Scripps Ranch HS	F	12	18:52.6	7
+8	3: HS Women's Varsity	Riley	Martin	Scripps Ranch HS	F	10	19:02.2	8
+9	3: HS Women's Varsity	Liesel	Sellerberg	Cathedral Catholic HS	F	11	19:07.2	9
+10	3: HS Women's Varsity	Chiara	Bonomi	Cathedral Catholic HS	F	12	19:15.3	10
+11	3: HS Women's Varsity	Darcy	Ray	University City HS	F	12	19:15.7	11
+12	3: HS Women's Varsity	Lindsay	Zimmer	Cathedral Catholic HS	F	11	19:24.7	12
+13	3: HS Women's Varsity	Kristine	Bickler	Cathedral Catholic HS	F	10	19:41.1	13
+14	3: HS Women's Varsity	Patsy	Hellmann	Cathedral Catholic HS	F	11	19:41.8	0
+15	3: HS Women's Varsity	Miriam	Aguirre	Patrick Henry HS	F	12	19:42.3	15
+16	3: HS Women's Varsity	Sara	Geiszler	Point Loma HS	F	11	19:44.4	16
+17	3: HS Women's Varsity	Nicole	Witt	Point Loma HS	F	11	19:46.3	17
+18	3: HS Women's Varsity	Paige	Eudy	Point Loma HS	F	10	19:53.8	18
+19	3: HS Women's Varsity	Eva	Cruz	Patrick Henry HS	F	11	20:04.4	19
+20	3: HS Women's Varsity	Eva	Smith	Cathedral Catholic HS	F	10	20:06.3	
+21	3: HS Women's Varsity	Tegan	Koranda	Scripps Ranch HS	F	10	20:07.4	21
+22	3: HS Women's Varsity	Michelle	Cai	Scripps Ranch HS	F	12	20:21.4	0
+23	3: HS Women's Varsity	Cassandra	Casalins-DeBoskey	Patrick Henry HS	F	10	20:24.4	23
+24	3: HS Women's Varsity	Corinne	Santoro	Point Loma HS	F	10	20:26.9	0
+25	3: HS Women's Varsity	Natalia	Velayudhan	Cathedral Catholic HS	F	12	20:33.1	
+26	3: HS Women's Varsity	Eva	Vander Zwart	Scripps Ranch HS	F	11	20:39.2	
+27	3: HS Women's Varsity	Eva	Casalins-DeBoskey	Patrick Henry HS	F	10	20:42.8	26
+28	3: HS Women's Varsity	Erin	O'Beirne	University City HS	F	12	20:45.1	27
+29	3: HS Women's Varsity	Tayler	Warner	Scripps Ranch HS	F	12	20:49.6	
+30	3: HS Women's Varsity	Amelia	Kirkegaard	Patrick Henry HS	F	12	20:56.5	0
+31	3: HS Women's Varsity	Kathryn	Mokhov	Patrick Henry HS	F	12	21:03.7	
+32	3: HS Women's Varsity	India	Sutera	Patrick Henry HS	F	10	21:08.3	
+33	3: HS Women's Varsity	Jenna	Piech	University City HS	F	10	21:19.0	30
+34	3: HS Women's Varsity	Zoe	Boes	Point Loma HS	F	11	21:21.2	
+35	3: HS Women's Varsity	Coral	Cameron	Point Loma HS	F	10	21:28.9	
+36	3: HS Women's Varsity	Lila	Mercer	Patrick Henry HS	F	10	21:32.6	
+37	3: HS Women's Varsity	Hannah	Sperling	Cathedral Catholic HS	F	11	21:43.2	
+38	3: HS Women's Varsity	Sonya	Vance	Patrick Henry HS	F	10	21:46.8	
+39	3: HS Women's Varsity	Celia	Thome	Point Loma HS	F	10	21:49.6	
+40	3: HS Women's Varsity	Annie	Guhse	Point Loma HS	F	12	21:51.1	
+41	3: HS Women's Varsity	Hannah	Nevius	Patrick Henry HS	F	12	21:52.8	
+42	3: HS Women's Varsity	Arya	Kim	University City HS	F	11	21:57.2	32
+43	3: HS Women's Varsity	Samantha	Mitchell	Mira Mesa HS	F	11	22:03.2	
+44	3: HS Women's Varsity	Cailin	Gutierrez	University City HS	F	12	22:24.3	33
+45	3: HS Women's Varsity	Gheeriel	Bernabe	Mira Mesa HS	F	11	22:29.6	
+46	3: HS Women's Varsity	Celine	Comia	Mira Mesa HS	F	11	22:47.3	
+47	3: HS Women's Varsity	Jaselle	Cahill	Point Loma HS	F	11	22:56.5	
+48	3: HS Women's Varsity	Sara	Hamilton	University City HS	F	10	24:03.3	0
+								
+Division	Place	Abbrev	School	Score				
+								
+3: HS Women's Varsity	1	Scripps Ranch HS		45				
+3: HS Women's Varsity	2	Cathedral Catholic HS		46				
+3: HS Women's Varsity	3	Point Loma HS		60				
+3: HS Women's Varsity	4	Patrick Henry HS		84				
+3: HS Women's Varsity	5	University City HS		133				
+3: HS Women's Varsity	6	Mira Mesa HS		INC				

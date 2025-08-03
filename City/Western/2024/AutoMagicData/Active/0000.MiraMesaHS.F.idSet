@@ -1,0 +1,87 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>AutoMagic ID</title></head>
+<body>
+
+<!-- xc -->
+<!-- xc text -->
+<table>
+<tr><td>XC</td></tr>
+</table>
+
+<p />
+
+<!-- version data -->
+<!-- decimal number -->
+<table>
+<tr><td>1.16</td></tr>
+<tr><td>1.2</td></tr>
+</table>
+
+<p />
+
+
+<!-- empty -->
+<!-- empty cell -->
+<table>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</table>
+
+<p />
+
+<!-- grade levels -->
+<!-- grade name, grade number -->
+<table>
+<tr><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- meet races -->
+<!-- race id, school level, gender, capability level, distance number, distance units, start time -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- schools and coaches -->
+<!-- school, school abbreviation, phone, coach, email, address, city, state, zip -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- entry athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- all athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td>91</td><td>Gheeriel</td><td>Bernabe</td><td>11</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>92</td><td>Stephanie</td><td>Clay</td><td>10</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>93</td><td>Celine</td><td>Comia</td><td>11</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>94</td><td>Adelia</td><td>Gabriel</td><td>12</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>95</td><td>Diana</td><td>Lemon-Ames</td><td>10</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>96</td><td>Ivanna</td><td>Lemon-Ames</td><td>11</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>97</td><td>Caelyn</td><td>Lien</td><td>10</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>98</td><td>Samantha</td><td>Mitchell</td><td>11</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>99</td><td>Leslie</td><td>Ortega</td><td>9</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>100</td><td>Lesley</td><td>Ramirez</td><td>9</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>101</td><td>Ryanna</td><td>Salazar</td><td>12</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>102</td><td>Ava</td><td>Tagliamento</td><td>10</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>103</td><td>Kaylee</td><td>Vong</td><td>11</td><td>F</td><td>Mira Mesa HS</td></tr>
+<tr><td>104</td><td>Paola</td><td>Zamora Ortega</td><td>11</td><td>F</td><td>Mira Mesa HS</td></tr>
+
+</table>
+
+</body>
+</html>

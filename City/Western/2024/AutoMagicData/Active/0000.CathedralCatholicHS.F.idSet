@@ -1,0 +1,117 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>AutoMagic ID</title></head>
+<body>
+
+<!-- xc -->
+<!-- xc text -->
+<table>
+<tr><td>XC</td></tr>
+</table>
+
+<p />
+
+<!-- version data -->
+<!-- decimal number -->
+<table>
+<tr><td>1.16</td></tr>
+<tr><td>1.2</td></tr>
+</table>
+
+<p />
+
+
+<!-- empty -->
+<!-- empty cell -->
+<table>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</table>
+
+<p />
+
+<!-- grade levels -->
+<!-- grade name, grade number -->
+<table>
+<tr><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- meet races -->
+<!-- race id, school level, gender, capability level, distance number, distance units, start time -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- schools and coaches -->
+<!-- school, school abbreviation, phone, coach, email, address, city, state, zip -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- entry athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- all athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td>1</td><td>Amaya</td><td>Adelman</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>2</td><td>Ava</td><td>Barrientos</td><td>11</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>3</td><td>Kristine</td><td>Bickler</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>4</td><td>Chiara</td><td>Bonomi</td><td>12</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>5</td><td>Bella</td><td>Brancheau</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>6</td><td>Phoebe</td><td>Brink</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>7</td><td>Mya</td><td>Connolly</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>8</td><td>Riley</td><td>Danielson</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>9</td><td>Kenley</td><td>Dean</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>10</td><td>Nadeen</td><td>Dessouky</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>11</td><td>Keylie</td><td>Espinoza-Arevalo</td><td>12</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>12</td><td>Favor</td><td>Eze</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>13</td><td>Eva</td><td>Fonss</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>14</td><td>Emma</td><td>Garro</td><td>12</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>15</td><td>Summer</td><td>Geall</td><td>11</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>16</td><td>Jocelyn</td><td>Gibson</td><td>12</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>17</td><td>Lily</td><td>Gonzales</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>18</td><td>Patsy</td><td>Hellmann</td><td>11</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>19</td><td>Grace</td><td>Keefe</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>20</td><td>Cara</td><td>Leo</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>21</td><td>Krista</td><td>Leon</td><td>11</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>22</td><td>Olivia</td><td>Lewis</td><td>11</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>23</td><td>Hagen</td><td>Lindeman</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>24</td><td>Valentina</td><td>Madrazo</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>25</td><td>Sophia</td><td>Martinez</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>26</td><td>Kiley</td><td>McAweeney</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>27</td><td>Alexa</td><td>McHugh</td><td>12</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>28</td><td>Mikayla</td><td>Novotny</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>29</td><td>Ella</td><td>Patterson</td><td>11</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>30</td><td>Ana</td><td>Radilla</td><td>12</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>31</td><td>Andrea</td><td>Radilla</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>32</td><td>Jora</td><td>Rawlins</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>33</td><td>Vivian</td><td>Saffian</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>34</td><td>Callie</td><td>Schulteis</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>35</td><td>Liesel</td><td>Sellerberg</td><td>11</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>36</td><td>Eva</td><td>Smith</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>37</td><td>Hannah</td><td>Sperling</td><td>11</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>38</td><td>Cecilia</td><td>Stapleton</td><td>12</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>39</td><td>Kate</td><td>Stroud</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>40</td><td>Natalia</td><td>Velayudhan</td><td>12</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>41</td><td>Gabby</td><td>Wells</td><td>12</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>42</td><td>Erin</td><td>Wheatley</td><td>10</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>43</td><td>Nakaya</td><td>Zanoni</td><td>9</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+<tr><td>44</td><td>Lindsay</td><td>Zimmer</td><td>11</td><td>F</td><td>Cathedral Catholic HS</td></tr>
+
+</table>
+
+</body>
+</html>

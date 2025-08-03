@@ -1,0 +1,64 @@
+Place	Division	FirstName	LastName	School	Gender	Year	Time	Score
+								
+1	3: HS Men's Boys Race	Jaimie	Gonzalez	University City HS	M	11	18:18.3	1
+2	3: HS Men's Boys Race	Joseph	Wilpitz	Mira Mesa HS	M	10	18:31.8	2
+3	3: HS Men's Boys Race	William	Groesbeck	Point Loma HS	M	11	18:44.9	3
+4	3: HS Men's Boys Race	Freddy	Derheimer	Cathedral Catholic HS	M	9	18:49.7	4
+5	3: HS Men's Boys Race	Cosmo	Fornaro	Cathedral Catholic HS	M	9	18:51.2	5
+6	3: HS Men's Boys Race	Timothy	Ehlert	Mira Mesa HS	M	10	18:57.5	6
+7	3: HS Men's Boys Race	Miguel	Pablo	Mira Mesa HS	M	12	18:58.8	7
+8	3: HS Men's Boys Race	John	Anderson	Point Loma HS	M	11	19:02.6	8
+9	3: HS Men's Boys Race	Darius	Hixon	Mira Mesa HS	M	10	19:09.5	9
+10	3: HS Men's Boys Race	Theo	Dela Cruz	Mira Mesa HS	M	12	19:12.2	10
+11	3: HS Men's Boys Race	Luis Fabian	Izaguirre	Patrick Henry HS	M	11	19:16.4	11
+12	3: HS Men's Boys Race	Gianluca	Corona	Cathedral Catholic HS	M	10	19:29.0	12
+13	3: HS Men's Boys Race	Aeron	Hunter	Point Loma HS	M	10	19:33.9	13
+14	3: HS Men's Boys Race	Scott	Perry	Scripps Ranch HS	M	10	19:35.1	14
+15	3: HS Men's Boys Race	Edward	Gergurich	Scripps Ranch HS	M	11	19:38.9	15
+16	3: HS Men's Boys Race	Dante	Hinckley	Scripps Ranch HS	M	10	19:43.7	16
+17	3: HS Men's Boys Race	Luke	Waterman	Point Loma HS	M	9	19:47.7	17
+18	3: HS Men's Boys Race	Diego	Lamuno	Cathedral Catholic HS	M	12	19:53.9	18
+19	3: HS Men's Boys Race	Adam	McNeil	Patrick Henry HS	M	10	19:56.7	19
+20	3: HS Men's Boys Race	Jack	Jennings	Cathedral Catholic HS	M	10	19:58.3	20
+21	3: HS Men's Boys Race	David	Kostrinsky	Patrick Henry HS	M	10	19:58.5	21
+22	3: HS Men's Boys Race	Travis	Ross	Point Loma HS	M	11	19:59.9	22
+23	3: HS Men's Boys Race	Ryan	Richardson	Cathedral Catholic HS	M	9	20:00.2	0
+24	3: HS Men's Boys Race	Sanskar	Sharma	University City HS	M	10	20:03.1	24
+25	3: HS Men's Boys Race	Dante	Morales	Point Loma HS	M	10	20:05.8	0
+26	3: HS Men's Boys Race	Rohan	Huynh	Patrick Henry HS	M	11	20:07.7	26
+27	3: HS Men's Boys Race	Matthew	Boley	Cathedral Catholic HS	M	12	20:19.7	
+28	3: HS Men's Boys Race	Kaleo	MacDonald	Point Loma HS	M	10	20:22.7	
+29	3: HS Men's Boys Race	Wyatt	Smith	Point Loma HS	M	9	20:24.8	
+30	3: HS Men's Boys Race	Max	Moscato	Cathedral Catholic HS	M	9	20:25.7	
+31	3: HS Men's Boys Race	Micah	Kollmeyer	Scripps Ranch HS	M	11	20:27.3	29
+32	3: HS Men's Boys Race	Cooper	Zlotnik	Point Loma HS	M	9	20:28.9	
+33	3: HS Men's Boys Race	Franklin	Rutt	Point Loma HS	M	10	20:32.4	
+34	3: HS Men's Boys Race	Grady	Clark	Point Loma HS	M	12	20:36.6	
+35	3: HS Men's Boys Race	Myles	Deadrick	Patrick Henry HS	M	9	20:44.7	30
+36	3: HS Men's Boys Race	Vincent	Monico	Cathedral Catholic HS	M	12	20:45.8	
+37	3: HS Men's Boys Race	Daron	Tokatlian	Point Loma HS	M	9	20:56.1	
+38	3: HS Men's Boys Race	Winston	Khongsaly	Mira Mesa HS	M	10	20:56.3	0
+39	3: HS Men's Boys Race	Brandon	Litten	Cathedral Catholic HS	M	9	21:03.1	
+40	3: HS Men's Boys Race	Benjamin	Steinhauer	Point Loma HS	M	12	21:07.9	
+41	3: HS Men's Boys Race	James	Beagin	Cathedral Catholic HS	M	10	21:08.2	
+42	3: HS Men's Boys Race	Ryan	Monahan	Cathedral Catholic HS	M	9	21:08.4	
+43	3: HS Men's Boys Race	Benjamin	Kozlik	Patrick Henry HS	M	10	21:17.7	0
+44	3: HS Men's Boys Race	Paul	Bacich	Cathedral Catholic HS	M	9	21:20.7	
+45	3: HS Men's Boys Race	Bobby	Colbourn	Scripps Ranch HS	M	12	21:25.4	33
+46	3: HS Men's Boys Race	Martin	Arsenault	Mira Mesa HS	M	11	21:27.1	
+47	3: HS Men's Boys Race	Holden	Schroeder	Scripps Ranch HS	M	10	21:29.3	0
+48	3: HS Men's Boys Race	Quinner	Riehl	Scripps Ranch HS	M	12	21:33.4	
+49	3: HS Men's Boys Race	Judah	Ferreira	Point Loma HS	M	10	21:40.8	
+50	3: HS Men's Boys Race	Viktor	Tautz	University City HS	M	10	21:43.1	37
+51	3: HS Men's Boys Race	Jonah	Yee	University City HS	M	9	21:43.6	38
+52	3: HS Men's Boys Race	Raphael	Sitapati	Scripps Ranch HS	M	11	22:01.7	
+53	3: HS Men's Boys Race	Casper	Knufken	Patrick Henry HS	M	10	22:21.0	
+54	3: HS Men's Boys Race	Garrett	Fox	Patrick Henry HS	M	10	22:23.2	
+55	3: HS Men's Boys Race	Bruce	Vosovic	Scripps Ranch HS	M	10	22:23.4	
+56	3: HS Men's Boys Race	Mason	Meathe	Cathedral Catholic HS	M	10	22:40.7	
+57	3: HS Men's Boys Race	Chase	Miller	Cathedral Catholic HS	M	9	22:44.8	
+58	3: HS Men's Boys Race	Collin	Gutche	Scripps Ranch HS	M	10	22:47.9	
+59	3: HS Men's Boys Race	Hudson	Warner	Point Loma HS	M	11	22:50.9	
+60	3: HS Men's Boys Race	Jacob	Noble	University City HS	M	10	23:36.1	40
+61	3: HS Men's Boys Race	Kuro	Stanich	University City HS	M	9	23:36.4	0
+62	3: HS Men's Boys Race	Raymond	Betancourt	Mira Mesa HS	M	9	23:48.7	

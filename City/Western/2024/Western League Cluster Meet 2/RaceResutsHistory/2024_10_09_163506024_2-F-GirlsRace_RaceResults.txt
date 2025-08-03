@@ -1,0 +1,70 @@
+Place	Division	FirstName	LastName	School	Gender	Year	Time	Score
+								
+1	2: HS Women's Girls Race	India	Sutera	Patrick Henry HS	F	10	16:47.4	1
+2	2: HS Women's Girls Race	Grace	Keefe	Cathedral Catholic HS	F	10	16:56.3	2
+3	2: HS Women's Girls Race	Ava	Barrientos	Cathedral Catholic HS	F	11	17:25.7	3
+4	2: HS Women's Girls Race	Olivia	Lewis	Cathedral Catholic HS	F	11	17:40.3	4
+5	2: HS Women's Girls Race	Samantha	Mitchell	Mira Mesa HS	F	11	17:46.1	5
+6	2: HS Women's Girls Race	Mika	Bachand	Scripps Ranch HS	F	11	17:50.4	6
+7	2: HS Women's Girls Race	Lily	Gonzales	Cathedral Catholic HS	F	9	17:52.0	7
+8	2: HS Women's Girls Race	Emma	Stutzman	Point Loma HS	F	10	17:52.7	8
+9	2: HS Women's Girls Race	Gheeriel	Bernabe	Mira Mesa HS	F	11	17:54.5	9
+10	2: HS Women's Girls Race	Phoebe	Brink	Cathedral Catholic HS	F	9	17:57.7	10
+11	2: HS Women's Girls Race	Liyah	London	Patrick Henry HS	F	11	18:00.0	11
+12	2: HS Women's Girls Race	Skyler	Scotten	Point Loma HS	F	9	18:10.6	12
+13	2: HS Women's Girls Race	Celine	Comia	Mira Mesa HS	F	11	18:17.3	13
+14	2: HS Women's Girls Race	Katarina	Hoehn	Point Loma HS	F	9	18:30.5	14
+15	2: HS Women's Girls Race	Keira	Lazaro	Point Loma HS	F	11	18:32.9	15
+16	2: HS Women's Girls Race	Sara	Hamilton	University City HS	F	10	18:36.7	
+17	2: HS Women's Girls Race	Keylie	Espinoza-Arevalo	Cathedral Catholic HS	F	12	18:38.2	0
+18	2: HS Women's Girls Race	Nadeen	Dessouky	Cathedral Catholic HS	F	10	18:46.5	
+19	2: HS Women's Girls Race	Layla	Herriges	Point Loma HS	F	9	18:50.2	18
+20	2: HS Women's Girls Race	Mikayla	Novotny	Cathedral Catholic HS	F	10	18:53.7	
+21	2: HS Women's Girls Race	Angela	Herd	Scripps Ranch HS	F	10	18:58.2	19
+22	2: HS Women's Girls Race	Miller	McMurria	Point Loma HS	F	10	19:02.1	0
+23	2: HS Women's Girls Race	Nora	Witt	Patrick Henry HS	F	10	19:03.4	21
+24	2: HS Women's Girls Race	Emmeline	Chen	Scripps Ranch HS	F	11	19:07.4	22
+25	2: HS Women's Girls Race	Elizabeth	Dullaghan	Patrick Henry HS	F	9	19:17.5	23
+26	2: HS Women's Girls Race	Lesley	Ramirez	Mira Mesa HS	F	9	19:18.6	24
+27	2: HS Women's Girls Race	Natalie	Schnaible	Point Loma HS	F	9	19:20.9	
+28	2: HS Women's Girls Race	Kajsa	Blendulf	Point Loma HS	F	9	19:25.2	
+29	2: HS Women's Girls Race	Amaya	Adelman	Cathedral Catholic HS	F	9	19:25.5	
+30	2: HS Women's Girls Race	Valentina	Madrazo	Cathedral Catholic HS	F	10	19:31.8	
+31	2: HS Women's Girls Race	Eva	Fonss	Cathedral Catholic HS	F	9	19:32.9	
+32	2: HS Women's Girls Race	Ella	Blazie	Point Loma HS	F	9	19:42.3	
+33	2: HS Women's Girls Race	Bella	Brancheau	Cathedral Catholic HS	F	10	19:50.8	
+34	2: HS Women's Girls Race	Hagen	Lindeman	Cathedral Catholic HS	F	10	19:53.2	
+35	2: HS Women's Girls Race	Aven	Harper	Scripps Ranch HS	F	10	19:53.7	26
+36	2: HS Women's Girls Race	Vivian	Saffian	Cathedral Catholic HS	F	9	20:01.0	
+37	2: HS Women's Girls Race	Ellison	Boney	Point Loma HS	F	10	20:02.7	
+38	2: HS Women's Girls Race	Colby	Russell	Point Loma HS	F	11	20:13.5	
+39	2: HS Women's Girls Race	Nakaya	Zanoni	Cathedral Catholic HS	F	9	20:16.5	
+40	2: HS Women's Girls Race	Violeta	Franco	University City HS	F	11	20:17.2	
+41	2: HS Women's Girls Race	Emma	Cloward	Patrick Henry HS	F	11	20:24.2	27
+42	2: HS Women's Girls Race	Emma	Garro	Cathedral Catholic HS	F	12	20:24.5	
+43	2: HS Women's Girls Race	Ava	Shiraishi	Patrick Henry HS	F	9	20:26.1	0
+44	2: HS Women's Girls Race	Annabelle	Hullinger	Point Loma HS	F	12	20:31.7	
+45	2: HS Women's Girls Race	Favor	Eze	Cathedral Catholic HS	F	9	20:47.1	
+46	2: HS Women's Girls Race	Riley	Danielson	Cathedral Catholic HS	F	9	20:48.1	
+47	2: HS Women's Girls Race	Bailey	Logan	Point Loma HS	F	9	21:08.7	
+48	2: HS Women's Girls Race	Giselle	De Carvalho Breton	Point Loma HS	F	9	21:16.6	
+49	2: HS Women's Girls Race	Diana	Lemon-Ames	Mira Mesa HS	F	10	21:20.4	29
+50	2: HS Women's Girls Race	Alexandra	Eusebio	Scripps Ranch HS	F	10	21:29.2	30
+51	2: HS Women's Girls Race	Ruby	Aguilera	Patrick Henry HS	F	10	21:38.8	
+52	2: HS Women's Girls Race	Ivanna	Lemon-Ames	Mira Mesa HS	F	11	21:49.3	0
+53	2: HS Women's Girls Race	Jora	Rawlins	Cathedral Catholic HS	F	10	21:55.1	
+54	2: HS Women's Girls Race	Alexa	McHugh	Cathedral Catholic HS	F	12	21:57.2	
+55	2: HS Women's Girls Race	Erin	Wheatley	Cathedral Catholic HS	F	10	22:10.6	
+56	2: HS Women's Girls Race	Maya	Schonian	Point Loma HS	F	9	22:14.7	
+57	2: HS Women's Girls Race	Scarlett	Rivera	Point Loma HS	F	9	22:30.7	
+58	2: HS Women's Girls Race	Lola	Chambers	Point Loma HS	F	9	22:50.5	
+59	2: HS Women's Girls Race	Jessica	Van Houten	Patrick Henry HS	F	11	23:22.4	
+60	2: HS Women's Girls Race	Alina	Egoudine	Scripps Ranch HS	F	10	23:47.8	0
+61	2: HS Women's Girls Race	Kiley	McAweeney	Cathedral Catholic HS	F	10	24:07.7	
+62	2: HS Women's Girls Race	Madeline	Widenhofer	Scripps Ranch HS	F	10	24:23.6	
+63	2: HS Women's Girls Race	Isabella	Kim	Scripps Ranch HS	F	9	24:27.8	
+64	2: HS Women's Girls Race	Kate	Stroud	Cathedral Catholic HS	F	9	24:55.0	
+65	2: HS Women's Girls Race	Sophia	Martinez	Cathedral Catholic HS	F	10	24:56.2	
+66	2: HS Women's Girls Race	Kaylee	Vong	Mira Mesa HS	F	11	25:11.2	
+67	2: HS Women's Girls Race	Krista	Leon	Cathedral Catholic HS	F	11	25:37.2	
+68	2: HS Women's Girls Race	Olivia	Harrison	Patrick Henry HS	F	10	26:52.4	

@@ -1,0 +1,90 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>AutoMagic ID</title></head>
+<body>
+
+<!-- xc -->
+<!-- xc text -->
+<table>
+<tr><td>XC</td></tr>
+</table>
+
+<p />
+
+<!-- version data -->
+<!-- decimal number -->
+<table>
+<tr><td>1.16</td></tr>
+<tr><td>1.2</td></tr>
+</table>
+
+<p />
+
+
+<!-- empty -->
+<!-- empty cell -->
+<table>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</table>
+
+<p />
+
+<!-- grade levels -->
+<!-- grade name, grade number -->
+<table>
+<tr><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- meet races -->
+<!-- race id, school level, gender, capability level, distance number, distance units, start time -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- schools and coaches -->
+<!-- school, school abbreviation, phone, coach, email, address, city, state, zip -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- entry athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- all athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td>353</td><td>Miguel</td><td>Aless</td><td>12</td><td>M</td><td>University City HS</td></tr>
+<tr><td>354</td><td>Matthew</td><td>Beaton</td><td>10</td><td>M</td><td>University City HS</td></tr>
+<tr><td>355</td><td>Baruch</td><td>Bejar</td><td>9</td><td>M</td><td>University City HS</td></tr>
+<tr><td>356</td><td>Hayato</td><td>Bott-Suzuki</td><td>11</td><td>M</td><td>University City HS</td></tr>
+<tr><td>357</td><td>Brian</td><td>Brown</td><td>10</td><td>M</td><td>University City HS</td></tr>
+<tr><td>358</td><td>Noah</td><td>Case</td><td>12</td><td>M</td><td>University City HS</td></tr>
+<tr><td>359</td><td>Trenton</td><td>Dong</td><td>12</td><td>M</td><td>University City HS</td></tr>
+<tr><td>360</td><td>Jaimie</td><td>Gonzalez</td><td>11</td><td>M</td><td>University City HS</td></tr>
+<tr><td>361</td><td>Colin</td><td>Harrison</td><td>11</td><td>M</td><td>University City HS</td></tr>
+<tr><td>362</td><td>Alexander</td><td>Herrera</td><td>9</td><td>M</td><td>University City HS</td></tr>
+<tr><td>363</td><td>Caleb</td><td>Hoskinson</td><td>10</td><td>M</td><td>University City HS</td></tr>
+<tr><td>364</td><td>Colin</td><td>Myers</td><td>9</td><td>M</td><td>University City HS</td></tr>
+<tr><td>365</td><td>Jacob</td><td>Noble</td><td>10</td><td>M</td><td>University City HS</td></tr>
+<tr><td>366</td><td>Sanskar</td><td>Sharma</td><td>10</td><td>M</td><td>University City HS</td></tr>
+<tr><td>367</td><td>Kuro</td><td>Stanich</td><td>9</td><td>M</td><td>University City HS</td></tr>
+<tr><td>368</td><td>Viktor</td><td>Tautz</td><td>10</td><td>M</td><td>University City HS</td></tr>
+<tr><td>369</td><td>Jonah</td><td>Yee</td><td>9</td><td>M</td><td>University City HS</td></tr>
+
+</table>
+
+</body>
+</html>

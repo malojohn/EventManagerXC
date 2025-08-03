@@ -1,0 +1,8 @@
+Division	Place	Abbrev	School	Score				
+								
+2: HS Women's Girls Race	1	Cathedral Catholic HS		27				
+2: HS Women's Girls Race	2	University City HS		57				
+2: HS Women's Girls Race	3	Scripps Ranch HS		76				
+2: HS Women's Girls Race	4	Mira Mesa HS		111				
+2: HS Women's Girls Race	5	Point Loma HS		116				
+2: HS Women's Girls Race	6	Patrick Henry HS		127				

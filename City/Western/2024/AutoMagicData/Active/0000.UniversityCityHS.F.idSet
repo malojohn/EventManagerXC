@@ -1,0 +1,82 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>AutoMagic ID</title></head>
+<body>
+
+<!-- xc -->
+<!-- xc text -->
+<table>
+<tr><td>XC</td></tr>
+</table>
+
+<p />
+
+<!-- version data -->
+<!-- decimal number -->
+<table>
+<tr><td>1.16</td></tr>
+<tr><td>1.2</td></tr>
+</table>
+
+<p />
+
+
+<!-- empty -->
+<!-- empty cell -->
+<table>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</table>
+
+<p />
+
+<!-- grade levels -->
+<!-- grade name, grade number -->
+<table>
+<tr><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- meet races -->
+<!-- race id, school level, gender, capability level, distance number, distance units, start time -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- schools and coaches -->
+<!-- school, school abbreviation, phone, coach, email, address, city, state, zip -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- entry athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- all athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td>344</td><td>Grace</td><td>Brophy</td><td>10</td><td>F</td><td>University City HS</td></tr>
+<tr><td>345</td><td>Violeta</td><td>Franco</td><td>11</td><td>F</td><td>University City HS</td></tr>
+<tr><td>346</td><td>Elena</td><td>Griffith</td><td>11</td><td>F</td><td>University City HS</td></tr>
+<tr><td>347</td><td>Cailin</td><td>Gutierrez</td><td>12</td><td>F</td><td>University City HS</td></tr>
+<tr><td>348</td><td>Sarah</td><td>Hamilton</td><td>10</td><td>F</td><td>University City HS</td></tr>
+<tr><td>349</td><td>Arya</td><td>Kim</td><td>11</td><td>F</td><td>University City HS</td></tr>
+<tr><td>350</td><td>Erin</td><td>O'Beirne</td><td>12</td><td>F</td><td>University City HS</td></tr>
+<tr><td>351</td><td>Jenna</td><td>Piech</td><td>10</td><td>F</td><td>University City HS</td></tr>
+<tr><td>352</td><td>Darcy</td><td>Ray</td><td>12</td><td>F</td><td>University City HS</td></tr>
+
+</table>
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>AutoMagic ID</title></head>
+<body>
+
+<!-- xc -->
+<!-- xc text -->
+<table>
+<tr><td>XC</td></tr>
+</table>
+
+<p />
+
+<!-- version data -->
+<!-- decimal number -->
+<table>
+<tr><td>1.16</td></tr>
+<tr><td>1.2</td></tr>
+</table>
+
+<p />
+
+
+<!-- empty -->
+<!-- empty cell -->
+<table>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</table>
+
+<p />
+
+<!-- grade levels -->
+<!-- grade name, grade number -->
+<table>
+<tr><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- meet races -->
+<!-- race id, school level, gender, capability level, distance number, distance units, start time -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- schools and coaches -->
+<!-- school, school abbreviation, phone, coach, email, address, city, state, zip -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- entry athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- all athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td>154</td><td>Dominic</td><td>Avila</td><td>11</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>155</td><td>Joseph</td><td>Corlew</td><td>11</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>156</td><td>Myles</td><td>Deadrick</td><td>9</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>157</td><td>Olegs</td><td>DeFaria</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>158</td><td>Jacob</td><td>Edison</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>159</td><td>Nico</td><td>Fernandez</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>160</td><td>Mario (Nico)</td><td>Fernandez DuFur</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>161</td><td>Garrett</td><td>Fox</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>162</td><td>Rohan</td><td>Huynh</td><td>11</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>163</td><td>Gray</td><td>Iannuzzi</td><td>11</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>164</td><td>Luis Fabian</td><td>Izaguirre</td><td>11</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>165</td><td>Sebastian</td><td>Karim</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>166</td><td>Casper</td><td>Knufken</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>167</td><td>David</td><td>Kostrinsky</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>168</td><td>Benjamin</td><td>Kozlik</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>169</td><td>Owen</td><td>Liss</td><td>9</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>170</td><td>Adam</td><td>McNeil</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>171</td><td>Calvin</td><td>Millang</td><td>9</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>172</td><td>Isaac</td><td>Moya</td><td>12</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>173</td><td>Nathan</td><td>Nguyen</td><td>11</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>174</td><td>Mario</td><td>Nico Fernandez Dufur</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>175</td><td>Samuel</td><td>Olson</td><td>12</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>176</td><td>Jacob</td><td>Oren-Winkler</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>177</td><td>Odin</td><td>Piscopo</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>178</td><td>Elijah</td><td>Smith</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>179</td><td>Luke</td><td>Stephenson</td><td>9</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>180</td><td>Zack</td><td>Uzzeni</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>181</td><td>Emiliano</td><td>Virgen-Santos</td><td>12</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>182</td><td>Zackary</td><td>Watkin</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>183</td><td>Beckett</td><td>Wilcox</td><td>12</td><td>M</td><td>Patrick Henry HS</td></tr>
+<tr><td>184</td><td>Maximilian</td><td>Yu</td><td>10</td><td>M</td><td>Patrick Henry HS</td></tr>
+
+</table>
+
+</body>
+</html>

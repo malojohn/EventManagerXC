@@ -1,0 +1,109 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>AutoMagic ID</title></head>
+<body>
+
+<!-- xc -->
+<!-- xc text -->
+<table>
+<tr><td>XC</td></tr>
+</table>
+
+<p />
+
+<!-- version data -->
+<!-- decimal number -->
+<table>
+<tr><td>1.16</td></tr>
+<tr><td>1.2</td></tr>
+</table>
+
+<p />
+
+
+<!-- empty -->
+<!-- empty cell -->
+<table>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</table>
+
+<p />
+
+<!-- grade levels -->
+<!-- grade name, grade number -->
+<table>
+<tr><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- meet races -->
+<!-- race id, school level, gender, capability level, distance number, distance units, start time -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- schools and coaches -->
+<!-- school, school abbreviation, phone, coach, email, address, city, state, zip -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- entry athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- all athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td>185</td><td>Serena</td><td>Arons</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>186</td><td>Ella</td><td>Blazie</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>187</td><td>Kajsa</td><td>Blendulf</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>188</td><td>Zoe</td><td>Boes</td><td>11</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>189</td><td>Ellison</td><td>Boney</td><td>10</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>190</td><td>Jaselle</td><td>Cahill</td><td>11</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>191</td><td>Coral</td><td>Cameron</td><td>10</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>192</td><td>Bree Ann</td><td>Carroll</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>193</td><td>Lola</td><td>Chambers</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>194</td><td>Hana</td><td>Connolly</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>195</td><td>Giselle</td><td>De Carvalho Breton</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>196</td><td>Paige</td><td>Eudy</td><td>10</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>197</td><td>Brooks</td><td>Evans</td><td>10</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>198</td><td>Daisy</td><td>Fricker</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>199</td><td>Sara</td><td>Geiszler</td><td>11</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>200</td><td>Annie</td><td>Guhse</td><td>12</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>201</td><td>Layla</td><td>Herriges</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>202</td><td>Katarina</td><td>Hoehn</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>203</td><td>Annabelle</td><td>Hullinger</td><td>12</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>204</td><td>Keira</td><td>Lazaro</td><td>11</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>205</td><td>Bailey</td><td>Logan</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>206</td><td>Natalie</td><td>Martinez</td><td>11</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>207</td><td>Kelly</td><td>McIntire</td><td>10</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>208</td><td>Miller</td><td>McMurria</td><td>10</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>209</td><td>Lannea</td><td>Moss</td><td>12</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>210</td><td>Isabella</td><td>Ramos</td><td>11</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>211</td><td>Scarlett</td><td>Rivera</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>212</td><td>Colby</td><td>Russell</td><td>11</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>213</td><td>Corinne</td><td>Santoro</td><td>10</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>214</td><td>Natalie</td><td>Schnaible</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>215</td><td>Maya</td><td>Schonian</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>216</td><td>Skyler</td><td>Scotten</td><td>9</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>217</td><td>Emma</td><td>Stutzman</td><td>10</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>218</td><td>Celia</td><td>Thome</td><td>10</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>219</td><td>Naomi</td><td>Williamson</td><td>11</td><td>F</td><td>Point Loma HS</td></tr>
+<tr><td>220</td><td>Nicole</td><td>Witt</td><td>11</td><td>F</td><td>Point Loma HS</td></tr>
+
+</table>
+
+</body>
+</html>

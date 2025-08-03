@@ -1,0 +1,184 @@
+Place	Division	FirstName	LastName	School	Gender	Year	Time	Score
+								
+1	1: HS Men's Boys Race	Leonardo	Miguel Rios	Mira Mesa HS	M	10	18:21.5	1
+2	1: HS Men's Boys Race	Joseph	Wilpitz	Mira Mesa HS	M	10	18:47.5	2
+3	1: HS Men's Boys Race	Freddy	Derheimer	Cathedral Catholic HS	M	9	18:56.1	3
+4	1: HS Men's Boys Race	Gianluca	Corona	Cathedral Catholic HS	M	10	19:10.3	4
+5	1: HS Men's Boys Race	Theo	Dela Cruz	Mira Mesa HS	M	12	19:13.9	5
+6	1: HS Men's Boys Race	Gavin	Greenspan	Scripps Ranch HS	M	9	19:14.6	6
+7	1: HS Men's Boys Race	James	Melancon	Scripps Ranch HS	M	9	19:14.7	7
+8	1: HS Men's Boys Race	Darius	Hixon	Mira Mesa HS	M	10	19:17.4	8
+9	1: HS Men's Boys Race	Luis Fabian	Izaguirre	Patrick Henry HS	M	11	19:21.3	9
+10	1: HS Men's Boys Race	Sanskar	Sharma	University City HS	M	10	19:27.8	10
+11	1: HS Men's Boys Race	Colin	Myers	University City HS	M	9	19:28.0	11
+12	1: HS Men's Boys Race	Emiliano	Virgen-Santos	Patrick Henry HS	M	12	19:33.0	12
+13	1: HS Men's Boys Race	Dante	Hinckley	Scripps Ranch HS	M	10	19:35.5	13
+14	1: HS Men's Boys Race	Travis	Ross	Point Loma HS	M	11	19:36.6	14
+15	1: HS Men's Boys Race	Edward	Gergurich	Scripps Ranch HS	M	11	19:37.8	15
+16	1: HS Men's Boys Race	Harlan	Schmaltz	Scripps Ranch HS	M	9	19:41.9	16
+17	1: HS Men's Boys Race	Scott	Perry	Scripps Ranch HS	M	10	19:41.9	0
+18	1: HS Men's Boys Race	Nathan	Bamford	Scripps Ranch HS	M	11	19:42.1	
+19	1: HS Men's Boys Race	Max	Moscato	Cathedral Catholic HS	M	9	19:46.3	19
+20	1: HS Men's Boys Race	Brice	Cobbs	Mira Mesa HS	M	11	19:47.3	20
+21	1: HS Men's Boys Race	Raymond	Betancourt	Mira Mesa HS	M	9	19:50.2	0
+22	1: HS Men's Boys Race	Caleb	Hoskinson	University City HS	M	10	19:52.3	22
+23	1: HS Men's Boys Race	Rohan	Huynh	Patrick Henry HS	M	11	19:57.8	23
+24	1: HS Men's Boys Race	Ryan	Richardson	Cathedral Catholic HS	M	9	20:06.4	24
+25	1: HS Men's Boys Race	Vincent	Monico	Cathedral Catholic HS	M	12	20:16.2	25
+26	1: HS Men's Boys Race	Isaac	Olivos	Mira Mesa HS	M	9	20:22.1	
+27	1: HS Men's Boys Race	Kyle	Kriz	Mira Mesa HS	M	10	20:22.8	
+28	1: HS Men's Boys Race	Cooper	Zlotnik	Point Loma HS	M	9	20:30.9	27
+29	1: HS Men's Boys Race	Dalton	d'Almaine-Vedral	Mira Mesa HS	M	10	20:32.7	
+30	1: HS Men's Boys Race	Micah	Kollmeyer	Scripps Ranch HS	M	11	20:34.7	
+31	1: HS Men's Boys Race	Myles	Deadrick	Patrick Henry HS	M	9	20:38.0	28
+32	1: HS Men's Boys Race	Benjamin	Steinhauer	Point Loma HS	M	12	20:40.8	29
+33	1: HS Men's Boys Race	Kuro	Stanich	University City HS	M	9	20:58.5	30
+34	1: HS Men's Boys Race	Ryan	Monahan	Cathedral Catholic HS	M	9	20:59.6	0
+35	1: HS Men's Boys Race	Wesley	Logan	Point Loma HS	M	11	21:01.9	32
+36	1: HS Men's Boys Race	Jack	Shuey	Scripps Ranch HS	M	9	21:02.5	
+37	1: HS Men's Boys Race	Viktor	Tautz	University City HS	M	10	21:05.0	33
+38	1: HS Men's Boys Race	Hudson	Kenis	Scripps Ranch HS	M	9	21:10.0	
+39	1: HS Men's Boys Race	Judah	Ferreira	Point Loma HS	M	10	21:10.7	34
+40	1: HS Men's Boys Race	Evinn	Pamelar	Mira Mesa HS	M	10	21:13.2	
+41	1: HS Men's Boys Race	Paul	Bacich	Cathedral Catholic HS	M	9	21:14.0	
+42	1: HS Men's Boys Race	Winston	Khongsaly	Mira Mesa HS	M	10	21:14.3	
+43	1: HS Men's Boys Race	Holden	Schroeder	Scripps Ranch HS	M	10	21:21.7	
+44	1: HS Men's Boys Race	Bobby	Colbourn	Scripps Ranch HS	M	12	21:22.3	
+45	1: HS Men's Boys Race	Caleb	Gizaw	Cathedral Catholic HS	M	11	21:24.1	
+46	1: HS Men's Boys Race	Jack	Disch	Point Loma HS	M	10	21:25.3	0
+47	1: HS Men's Boys Race	Bradley	Ramos	Point Loma HS	M	10	21:28.8	
+48	1: HS Men's Boys Race	Parsa	Mehrmashhadi	Scripps Ranch HS	M	9	21:30.8	
+49	1: HS Men's Boys Race	Jim	Yang	Scripps Ranch HS	M	10	21:32.5	
+50	1: HS Men's Boys Race	Matthew	Boley	Cathedral Catholic HS	M	12	21:34.8	
+51	1: HS Men's Boys Race	Garrett	Fordyce	Mira Mesa HS	M	9	21:36.2	
+52	1: HS Men's Boys Race	Bruce	Vosovic	Scripps Ranch HS	M	10	21:41.6	
+53	1: HS Men's Boys Race	Seeger	Perry	Cathedral Catholic HS	M	10	21:45.5	
+54	1: HS Men's Boys Race	Gabriel	Shaffer	Scripps Ranch HS	M	9	21:46.6	
+55	1: HS Men's Boys Race	Cole	Gouslin	Cathedral Catholic HS	M	11	21:47.0	
+56	1: HS Men's Boys Race	Lucas	Liao	Mira Mesa HS	M	12	21:47.7	
+57	1: HS Men's Boys Race	Hudson	Warner	Point Loma HS	M	11	21:49.6	
+58	1: HS Men's Boys Race	Arden	Aguilo	Mira Mesa HS	M	9	21:49.8	
+59	1: HS Men's Boys Race	Quinner	Riehl	Scripps Ranch HS	M	12	21:51.4	
+60	1: HS Men's Boys Race	Jacob	Noble	University City HS	M	10	21:55.7	0
+61	1: HS Men's Boys Race	Harold	Zlotnik	Point Loma HS	M	9	22:00.2	
+62	1: HS Men's Boys Race	Samuel	Kirian	Point Loma HS	M	11	22:04.2	
+63	1: HS Men's Boys Race	James	Beagin	Cathedral Catholic HS	M	10	22:08.6	
+64	1: HS Men's Boys Race	Mason	Thomas	Scripps Ranch HS	M	10	22:09.8	
+65	1: HS Men's Boys Race	Travis	Tang	Cathedral Catholic HS	M	11	22:12.0	
+66	1: HS Men's Boys Race	Jonah	Yee	University City HS	M	9	22:23.3	
+67	1: HS Men's Boys Race	Diego	Lamuno	Cathedral Catholic HS	M	12	22:26.2	
+68	1: HS Men's Boys Race	Henry	Crivello	Scripps Ranch HS	M	10	22:26.3	
+69	1: HS Men's Boys Race	Calvin	Millang	Patrick Henry HS	M	9	22:26.7	40
+70	1: HS Men's Boys Race	Matthew	Beaton	University City HS	M	10	22:30.2	
+71	1: HS Men's Boys Race	Dante	Macina	Point Loma HS	M	10	22:31.9	
+72	1: HS Men's Boys Race	Ryan	Phipps	Scripps Ranch HS	M	9	22:42.8	
+73	1: HS Men's Boys Race	Pratham	Tomar	Scripps Ranch HS	M	9	22:44.3	
+74	1: HS Men's Boys Race	Beckett	Gilmour	Point Loma HS	M	9	22:47.0	
+75	1: HS Men's Boys Race	Collin	Gutche	Scripps Ranch HS	M	10	22:49.7	
+76	1: HS Men's Boys Race	Jack	Kerrigan	Point Loma HS	M	9	22:58.3	
+77	1: HS Men's Boys Race	Jake	Faria	Point Loma HS	M	9	22:58.4	
+78	1: HS Men's Boys Race	Kai	Dalton	Point Loma HS	M	9	23:01.7	
+79	1: HS Men's Boys Race	Raphael	Sitapati	Scripps Ranch HS	M	11	23:04.8	
+80	1: HS Men's Boys Race	Jonathan	Danh	Mira Mesa HS	M	10	23:05.6	
+81	1: HS Men's Boys Race	Likhith	Nagesh Reddy	Scripps Ranch HS	M	10	23:09.4	
+82	1: HS Men's Boys Race	Lucas	Evans	Scripps Ranch HS	M	9	23:10.7	
+83	1: HS Men's Boys Race	Mason	Meathe	Cathedral Catholic HS	M	10	23:13.7	
+84	1: HS Men's Boys Race	Anthony	Slosar	Cathedral Catholic HS	M	9	23:32.2	
+85	1: HS Men's Boys Race	Dominic	Willis	Scripps Ranch HS	M	10	23:35.0	
+86	1: HS Men's Boys Race	Max	Aminoff	Point Loma HS	M	9	23:40.7	
+87	1: HS Men's Boys Race	Matteo	Briseno	Scripps Ranch HS	M	9	23:44.8	
+88	1: HS Men's Boys Race	Wyatt	Smith	Point Loma HS	M	9	23:55.6	
+89	1: HS Men's Boys Race	Garrett	Fox	Patrick Henry HS	M	10	24:01.0	0
+90	1: HS Men's Boys Race	Dylan	Arbogast	Cathedral Catholic HS	M	10	24:07.2	
+91	1: HS Men's Boys Race	Isaac	Duran	Cathedral Catholic HS	M	11	24:09.9	
+92	1: HS Men's Boys Race	Jacob	Edison	Patrick Henry HS	M	10	24:10.6	
+93	1: HS Men's Boys Race	Colin	Harrison	University City HS	M	11	24:16.6	
+94	1: HS Men's Boys Race	Mason	Hanks	Scripps Ranch HS	M	9	24:16.7	
+95	1: HS Men's Boys Race	Haresh	Baskar	Mira Mesa HS	M	11	24:23.6	
+96	1: HS Men's Boys Race	Alessandro	Marino	Cathedral Catholic HS	M	12	24:28.9	
+97	1: HS Men's Boys Race	Samuel	Pastor	Scripps Ranch HS	M	9	24:32.1	
+98	1: HS Men's Boys Race	Alexander	Herrera	University City HS	M	9	25:25.6	
+99	1: HS Men's Boys Race	Jayden	Hoang	Cathedral Catholic HS	M	11	25:50.8	
+100	1: HS Men's Boys Race	Luke	Stephenson	Patrick Henry HS	M	9	25:52.9	
+101	1: HS Men's Boys Race	Nico	Portillo	Cathedral Catholic HS	M	9	27:00.7	
+102	1: HS Men's Boys Race	Diego	Barrios-Barba	Cathedral Catholic HS	M	9	27:01.3	
+103	1: HS Men's Boys Race	Shay	Giffen	Scripps Ranch HS	M	10	29:17.8	
+104	1: HS Men's Boys Race	Brian	Brown	University City HS	M	10	29:21.4	
+								
+1	2: HS Women's Girls Race	Grace	Keefe	Cathedral Catholic HS	F	10	16:34.3	1
+2	2: HS Women's Girls Race	Samantha	Mitchell	Mira Mesa HS	F	11	17:23.6	2
+3	2: HS Women's Girls Race	Cailin	Gutierrez	University City HS	F	12	17:29.9	3
+4	2: HS Women's Girls Race	Arya	Kim	University City HS	F	11	17:32.0	4
+5	2: HS Women's Girls Race	Lily	Gonzales	Cathedral Catholic HS	F	9	17:41.1	5
+6	2: HS Women's Girls Race	Ava	Barrientos	Cathedral Catholic HS	F	11	17:46.4	6
+7	2: HS Women's Girls Race	Phoebe	Brink	Cathedral Catholic HS	F	9	17:46.9	7
+8	2: HS Women's Girls Race	Keylie	Espinoza-Arevalo	Cathedral Catholic HS	F	12	18:06.1	8
+9	2: HS Women's Girls Race	Elena	Griffith	University City HS	F	11	18:06.8	9
+10	2: HS Women's Girls Race	Mika	Bachand	Scripps Ranch HS	F	11	18:19.2	10
+11	2: HS Women's Girls Race	Olivia	Liu	Scripps Ranch HS	F	9	18:20.5	11
+12	2: HS Women's Girls Race	Celine	Comia	Mira Mesa HS	F	11	18:37.4	12
+13	2: HS Women's Girls Race	Ella	Blazie	Point Loma HS	F	9	18:46.4	13
+14	2: HS Women's Girls Race	Nadeen	Dessouky	Cathedral Catholic HS	F	10	18:47.9	0
+15	2: HS Women's Girls Race	Sarah	Hamilton	University City HS	F	10	18:56.6	15
+16	2: HS Women's Girls Race	Angela	Herd	Scripps Ranch HS	F	10	18:57.7	16
+17	2: HS Women's Girls Race	Elizabeth	Dullaghan	Patrick Henry HS	F	9	19:02.8	17
+18	2: HS Women's Girls Race	Aven	Harper	Scripps Ranch HS	F	10	19:04.7	18
+19	2: HS Women's Girls Race	Natalie	Schnaible	Point Loma HS	F	9	19:05.6	19
+20	2: HS Women's Girls Race	Amaya	Adelman	Cathedral Catholic HS	F	9	19:07.3	
+21	2: HS Women's Girls Race	Sarah	Abdin	Scripps Ranch HS	F	10	19:09.2	21
+22	2: HS Women's Girls Race	Nora	Witt	Patrick Henry HS	F	10	19:13.0	22
+23	2: HS Women's Girls Race	Liyah	London	Patrick Henry HS	F	11	19:14.0	23
+24	2: HS Women's Girls Race	Mikayla	Novotny	Cathedral Catholic HS	F	10	19:17.4	
+25	2: HS Women's Girls Race	Bella	Brancheau	Cathedral Catholic HS	F	10	19:24.2	
+26	2: HS Women's Girls Race	Malibu	Burton	Scripps Ranch HS	F	12	19:27.9	0
+27	2: HS Women's Girls Race	Lesley	Ramirez	Mira Mesa HS	F	9	19:28.2	25
+28	2: HS Women's Girls Race	Violeta	Franco	University City HS	F	11	19:36.5	26
+29	2: HS Women's Girls Race	Mya	Connolly	Cathedral Catholic HS	F	10	19:46.7	
+30	2: HS Women's Girls Race	Vivian	Saffian	Cathedral Catholic HS	F	9	19:56.7	
+31	2: HS Women's Girls Race	Annabelle	Hullinger	Point Loma HS	F	12	19:58.5	27
+32	2: HS Women's Girls Race	Hagen	Lindeman	Cathedral Catholic HS	F	10	19:58.8	
+33	2: HS Women's Girls Race	Nakaya	Zanoni	Cathedral Catholic HS	F	9	20:00.6	
+34	2: HS Women's Girls Race	Giselle	De Carvalho Breton	Point Loma HS	F	9	20:19.0	28
+35	2: HS Women's Girls Race	Ellison	Boney	Point Loma HS	F	10	20:19.6	29
+36	2: HS Women's Girls Race	Bailey	Logan	Point Loma HS	F	9	20:20.2	0
+37	2: HS Women's Girls Race	Vasi	Larikova	Scripps Ranch HS	F	9	20:24.9	
+38	2: HS Women's Girls Race	Favor	Eze	Cathedral Catholic HS	F	9	20:40.2	
+39	2: HS Women's Girls Race	Ava	Shiraishi	Patrick Henry HS	F	9	20:49.1	32
+40	2: HS Women's Girls Race	Emma	Cloward	Patrick Henry HS	F	11	21:00.3	33
+41	2: HS Women's Girls Race	Ruby	Aguilera	Patrick Henry HS	F	10	21:12.4	0
+42	2: HS Women's Girls Race	Alexandra	Eusebio	Scripps Ranch HS	F	10	21:14.9	
+43	2: HS Women's Girls Race	Cara	Leo	Cathedral Catholic HS	F	9	21:19.6	
+44	2: HS Women's Girls Race	Erin	Wheatley	Cathedral Catholic HS	F	10	21:20.7	
+45	2: HS Women's Girls Race	Alina	Egoudine	Scripps Ranch HS	F	10	21:23.2	
+46	2: HS Women's Girls Race	Diana	Lemon-Ames	Mira Mesa HS	F	10	21:30.7	35
+47	2: HS Women's Girls Race	Jessica	Van Houten	Patrick Henry HS	F	11	21:37.1	
+48	2: HS Women's Girls Race	Caelyn	Lien	Mira Mesa HS	F	10	21:37.3	37
+49	2: HS Women's Girls Race	Scarlett	Rivera	Point Loma HS	F	9	21:42.0	
+50	2: HS Women's Girls Race	Ivanna	Lemon-Ames	Mira Mesa HS	F	11	21:55.7	0
+51	2: HS Women's Girls Race	Hana	Connolly	Point Loma HS	F	9	21:59.6	
+52	2: HS Women's Girls Race	Alexa	McHugh	Cathedral Catholic HS	F	12	22:03.9	
+53	2: HS Women's Girls Race	Lola	Chambers	Point Loma HS	F	9	22:39.2	
+54	2: HS Women's Girls Race	Maya	Schonian	Point Loma HS	F	9	22:52.9	
+55	2: HS Women's Girls Race	Leslie	Ortega	Mira Mesa HS	F	9	23:15.5	
+56	2: HS Women's Girls Race	Kiley	McAweeney	Cathedral Catholic HS	F	10	23:32.1	
+57	2: HS Women's Girls Race	Jora	Rawlins	Cathedral Catholic HS	F	10	23:36.8	
+58	2: HS Women's Girls Race	Isabella	Kim	Scripps Ranch HS	F	9	23:48.0	
+59	2: HS Women's Girls Race	Madeline	Widenhofer	Scripps Ranch HS	F	10	24:13.0	
+60	2: HS Women's Girls Race	Kate	Stroud	Cathedral Catholic HS	F	9	24:18.4	
+61	2: HS Women's Girls Race	Kaylee	Vong	Mira Mesa HS	F	11	28:11.0	
+								
+Division	Place	Abbrev	School	Score				
+								
+1: HS Men's Boys Race	1	Mira Mesa HS		36				
+1: HS Men's Boys Race	2	Scripps Ranch HS		57				
+1: HS Men's Boys Race	3	Cathedral Catholic HS		75				
+1: HS Men's Boys Race	4	University City HS		106				
+1: HS Men's Boys Race	5	Patrick Henry HS		112				
+1: HS Men's Boys Race	6	Point Loma HS		136				
+								
+2: HS Women's Girls Race	1	Cathedral Catholic HS		27				
+2: HS Women's Girls Race	2	University City HS		57				
+2: HS Women's Girls Race	3	Scripps Ranch HS		76				
+2: HS Women's Girls Race	4	Mira Mesa HS		111				
+2: HS Women's Girls Race	5	Point Loma HS		116				
+2: HS Women's Girls Race	6	Patrick Henry HS		127				

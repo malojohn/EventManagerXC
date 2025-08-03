@@ -1,0 +1,91 @@
+Place	Division	FirstName	LastName	School	Gender	Year	Time	Score
+								
+1	4: HS Women's Junior Varsity	Hannah	Sperling	Cathedral Catholic HS	F	11	17:17.8	1
+2	4: HS Women's Junior Varsity	Grace	Keefe	Cathedral Catholic HS	F	10	17:24.1	2
+3	4: HS Women's Junior Varsity	Samantha	Mitchell	Mira Mesa HS	F	11	17:26.3	3
+4	4: HS Women's Junior Varsity	Skyler	Scotten	Point Loma HS	F	9	17:35.3	4
+5	4: HS Women's Junior Varsity	Gheeriel	Bernabe	Mira Mesa HS	F	11	17:46.2	5
+6	4: HS Women's Junior Varsity	Ava	Barrientos	Cathedral Catholic HS	F	11	17:50.9	6
+7	4: HS Women's Junior Varsity	Lily	Gonzales	Cathedral Catholic HS	F	9	17:59.6	7
+8	4: HS Women's Junior Varsity	Isabelle	Schaefer	Patrick Henry HS	F	9	18:13.7	8
+9	4: HS Women's Junior Varsity	Olivia	Lewis	Cathedral Catholic HS	F	11	18:14.0	9
+10	4: HS Women's Junior Varsity	Mika	Bachand	Scripps Ranch HS	F	11	18:19.5	10
+11	4: HS Women's Junior Varsity	Katarina	Hoehn	Point Loma HS	F	9	18:35.5	11
+12	4: HS Women's Junior Varsity	Emma	Stutzman	Point Loma HS	F	10	18:38.7	12
+13	4: HS Women's Junior Varsity	Miller	McMurria	Point Loma HS	F	10	18:38.9	13
+14	4: HS Women's Junior Varsity	Phoebe	Brink	Cathedral Catholic HS	F	9	18:40.8	0
+15	4: HS Women's Junior Varsity	Violette	D'Ambrosia	Patrick Henry HS	F	9	18:42.6	15
+16	4: HS Women's Junior Varsity	Valentina	Madrazo	Cathedral Catholic HS	F	10	18:44.0	
+17	4: HS Women's Junior Varsity	Keylie	Espinoza-Arevalo	Cathedral Catholic HS	F	12	18:44.9	
+18	4: HS Women's Junior Varsity	Layla	Herriges	Point Loma HS	F	9	18:48.0	17
+19	4: HS Women's Junior Varsity	Liyah	London	Patrick Henry HS	F	11	18:52.6	18
+20	4: HS Women's Junior Varsity	Angela	Herd	Scripps Ranch HS	F	10	18:55.1	19
+21	4: HS Women's Junior Varsity	Keira	Lazaro	Point Loma HS	F	11	18:59.4	0
+22	4: HS Women's Junior Varsity	Sarah	Hamilton	University City HS	F	10	19:06.0	
+23	4: HS Women's Junior Varsity	Celine	Comia	Mira Mesa HS	F	11	19:09.6	21
+24	4: HS Women's Junior Varsity	Nadeen	Dessouky	Cathedral Catholic HS	F	10	19:17.7	
+25	4: HS Women's Junior Varsity	Elizabeth	Dullaghan	Patrick Henry HS	F	9	19:25.7	22
+26	4: HS Women's Junior Varsity	Natalie	Schnaible	Point Loma HS	F	9	19:28.1	
+27	4: HS Women's Junior Varsity	Mikayla	Novotny	Cathedral Catholic HS	F	10	19:28.6	
+28	4: HS Women's Junior Varsity	Lesley	Ramirez	Mira Mesa HS	F	9	19:29.3	24
+29	4: HS Women's Junior Varsity	Emmeline	Chen	Scripps Ranch HS	F	11	19:30.7	25
+30	4: HS Women's Junior Varsity	Nora	Witt	Patrick Henry HS	F	10	19:44.6	26
+31	4: HS Women's Junior Varsity	Bella	Brancheau	Cathedral Catholic HS	F	10	19:47.2	
+32	4: HS Women's Junior Varsity	Mya	Connolly	Cathedral Catholic HS	F	10	19:51.0	
+33	4: HS Women's Junior Varsity	Kajsa	Blendulf	Point Loma HS	F	9	19:53.8	
+34	4: HS Women's Junior Varsity	Aven	Harper	Scripps Ranch HS	F	10	19:56.7	27
+35	4: HS Women's Junior Varsity	Hagen	Lindeman	Cathedral Catholic HS	F	10	20:22.1	
+36	4: HS Women's Junior Varsity	Adelia	Gabriel	Mira Mesa HS	F	12	20:28.6	28
+37	4: HS Women's Junior Varsity	Nakaya	Zanoni	Cathedral Catholic HS	F	9	20:33.4	
+38	4: HS Women's Junior Varsity	Annabelle	Hullinger	Point Loma HS	F	12	20:40.2	
+39	4: HS Women's Junior Varsity	Ellison	Boney	Point Loma HS	F	10	20:40.5	
+40	4: HS Women's Junior Varsity	Lexie	Ngo	Scripps Ranch HS	F	9	20:43.2	29
+41	4: HS Women's Junior Varsity	Vivian	Saffian	Cathedral Catholic HS	F	9	20:44.9	
+42	4: HS Women's Junior Varsity	Emma	Garro	Cathedral Catholic HS	F	12	20:46.7	
+43	4: HS Women's Junior Varsity	Kenley	Dean	Cathedral Catholic HS	F	9	20:52.1	
+44	4: HS Women's Junior Varsity	Amaya	Adelman	Cathedral Catholic HS	F	9	20:52.9	
+45	4: HS Women's Junior Varsity	Emma	Cloward	Patrick Henry HS	F	11	20:58.2	0
+46	4: HS Women's Junior Varsity	Violeta	Franco	University City HS	F	11	21:01.3	
+47	4: HS Women's Junior Varsity	Giselle	De Carvalho Breton	Point Loma HS	F	9	21:01.9	
+48	4: HS Women's Junior Varsity	Paola	Zamora Ortega	Mira Mesa HS	F	11	21:02.3	0
+49	4: HS Women's Junior Varsity	Ava	Shiraishi	Patrick Henry HS	F	9	21:03.6	
+50	4: HS Women's Junior Varsity	Vasi	Larikova	Scripps Ranch HS	F	9	21:08.9	0
+51	4: HS Women's Junior Varsity	Riley	Danielson	Cathedral Catholic HS	F	9	21:18.7	
+52	4: HS Women's Junior Varsity	Natalie	Martinez	Point Loma HS	F	11	21:21.2	
+53	4: HS Women's Junior Varsity	Ella	Blazie	Point Loma HS	F	9	21:30.3	
+54	4: HS Women's Junior Varsity	Favor	Eze	Cathedral Catholic HS	F	9	21:30.5	
+55	4: HS Women's Junior Varsity	Caelyn	Lien	Mira Mesa HS	F	10	21:46.6	
+56	4: HS Women's Junior Varsity	Alexandra	Eusebio	Scripps Ranch HS	F	10	21:47.9	
+57	4: HS Women's Junior Varsity	Scarlett	Rivera	Point Loma HS	F	9	21:55.5	
+58	4: HS Women's Junior Varsity	Alexa	McHugh	Cathedral Catholic HS	F	12	21:59.6	
+59	4: HS Women's Junior Varsity	Diana	Lemon-Ames	Mira Mesa HS	F	10	22:06.2	
+60	4: HS Women's Junior Varsity	Cara	Leo	Cathedral Catholic HS	F	9	22:11.0	
+61	4: HS Women's Junior Varsity	Ruby	Aguilera	Patrick Henry HS	F	10	22:17.8	
+62	4: HS Women's Junior Varsity	Ivanna	Lemon-Ames	Mira Mesa HS	F	11	22:37.2	
+63	4: HS Women's Junior Varsity	Erin	Wheatley	Cathedral Catholic HS	F	10	23:00.1	
+64	4: HS Women's Junior Varsity	Jora	Rawlins	Cathedral Catholic HS	F	10	23:07.5	
+65	4: HS Women's Junior Varsity	Rayhona	Olimova	Scripps Ranch HS	F	9	23:28.4	
+66	4: HS Women's Junior Varsity	Maya	Schonian	Point Loma HS	F	9	23:31.9	
+67	4: HS Women's Junior Varsity	Jessica	Van Houten	Patrick Henry HS	F	11	24:00.1	
+68	4: HS Women's Junior Varsity	Alina	Egoudine	Scripps Ranch HS	F	10	24:04.2	
+69	4: HS Women's Junior Varsity	Gabby	Wells	Cathedral Catholic HS	F	12	24:09.7	
+70	4: HS Women's Junior Varsity	Lola	Chambers	Point Loma HS	F	9	24:39.3	
+71	4: HS Women's Junior Varsity	Bailey	Logan	Point Loma HS	F	9	24:39.6	
+72	4: HS Women's Junior Varsity	Isabella	Kim	Scripps Ranch HS	F	9	24:52.3	
+73	4: HS Women's Junior Varsity	Madeline	Widenhofer	Scripps Ranch HS	F	10	25:00.7	
+74	4: HS Women's Junior Varsity	Leslie	Ortega	Mira Mesa HS	F	9	25:15.2	
+75	4: HS Women's Junior Varsity	Kaylee	Vong	Mira Mesa HS	F	11	25:16.8	
+76	4: HS Women's Junior Varsity	Kiley	McAweeney	Cathedral Catholic HS	F	10	25:23.3	
+77	4: HS Women's Junior Varsity	Sophia	Martinez	Cathedral Catholic HS	F	10	25:24.2	
+78	4: HS Women's Junior Varsity	Olivia	Harrison	Patrick Henry HS	F	10	25:27.5	
+79	4: HS Women's Junior Varsity	Kate	Stroud	Cathedral Catholic HS	F	9	25:34.1	
+80	4: HS Women's Junior Varsity	Krista	Leon	Cathedral Catholic HS	F	11	27:16.0	
+								
+Division	Place	Abbrev	School	Score				
+								
+4: HS Women's Junior Varsity	1	Cathedral Catholic HS	CACA	25				
+4: HS Women's Junior Varsity	2	Point Loma HS	PTLO	57				
+4: HS Women's Junior Varsity	3	Mira Mesa HS	MIME	81				
+4: HS Women's Junior Varsity	4	Patrick Henry HS	PAHE	89				
+4: HS Women's Junior Varsity	5	Scripps Ranch HS	SCRA	110				
+4: HS Women's Junior Varsity		University City HS	UNCI	INC				

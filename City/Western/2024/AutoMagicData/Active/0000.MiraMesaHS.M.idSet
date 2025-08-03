@@ -1,0 +1,100 @@
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>AutoMagic ID</title></head>
+<body>
+
+<!-- xc -->
+<!-- xc text -->
+<table>
+<tr><td>XC</td></tr>
+</table>
+
+<p />
+
+<!-- version data -->
+<!-- decimal number -->
+<table>
+<tr><td>1.16</td></tr>
+<tr><td>1.2</td></tr>
+</table>
+
+<p />
+
+
+<!-- empty -->
+<!-- empty cell -->
+<table>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</table>
+
+<p />
+
+<!-- grade levels -->
+<!-- grade name, grade number -->
+<table>
+<tr><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- meet races -->
+<!-- race id, school level, gender, capability level, distance number, distance units, start time -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- schools and coaches -->
+<!-- school, school abbreviation, phone, coach, email, address, city, state, zip -->
+<table>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- entry athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<p />
+
+<!-- all athletes -->
+<!--  entry race id, first name, last name, grade number, gender, school -->
+<table border="0" cellpadding="0" cellspacing="0" width="347">
+<tr><td>105</td><td>Arden</td><td>Aguilo</td><td>9</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>106</td><td>Martin</td><td>Arsenault</td><td>11</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>107</td><td>Haresh</td><td>Baskar</td><td>11</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>108</td><td>Raymond</td><td>Betancourt</td><td>9</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>109</td><td>Jayden</td><td>Bui</td><td>11</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>110</td><td>Brice</td><td>Cobbs</td><td>11</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>111</td><td>Dalton</td><td>d'Almaine-Vedral</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>112</td><td>Jonathan</td><td>Danh</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>113</td><td>Peter</td><td>DeGraziano</td><td>12</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>114</td><td>Theo</td><td>Dela Cruz</td><td>12</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>115</td><td>Timothy</td><td>Ehlert</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>116</td><td>Garrett</td><td>Fordyce</td><td>9</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>117</td><td>Darius</td><td>Hixon</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>118</td><td>Winston</td><td>Khongsaly</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>119</td><td>Kyle</td><td>Kriz</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>120</td><td>Lucas</td><td>Liao</td><td>12</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>121</td><td>Anthony</td><td>Malubay</td><td>12</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>122</td><td>Brian</td><td>McCaskill</td><td>11</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>123</td><td>Leonardo</td><td>Miguel Rios</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>124</td><td>Mason</td><td>Munn</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>125</td><td>Simon</td><td>Nguyen</td><td>12</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>126</td><td>Isaac</td><td>Olivos</td><td>9</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>127</td><td>Jaden</td><td>Ona</td><td>11</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>128</td><td>Miguel</td><td>Pablo</td><td>12</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>129</td><td>Evinn</td><td>Pamelar</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>130</td><td>Ryan</td><td>Polk</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+<tr><td>131</td><td>Joseph</td><td>Wilpitz</td><td>10</td><td>M</td><td>Mira Mesa HS</td></tr>
+
+</table>
+
+</body>
+</html>

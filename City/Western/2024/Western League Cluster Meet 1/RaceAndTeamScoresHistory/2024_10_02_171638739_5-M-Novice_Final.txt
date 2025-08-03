@@ -1,0 +1,75 @@
+Place	Division	FirstName	LastName	School	Gender	Year	Time	Score
+								
+1	5: HS Men's Novice	Wyatt	Smith	Point Loma HS	M	9	15:21.5	1
+2	5: HS Men's Novice	Daron	Tokatlian	Point Loma HS	M	9	16:04.2	2
+3	5: HS Men's Novice	Colin	Rahilly	Point Loma HS	M	9	16:04.6	3
+4	5: HS Men's Novice	Gavin	Greenspan	Scripps Ranch HS	M	9	16:04.8	4
+5	5: HS Men's Novice	Arush	Sastry	Scripps Ranch HS	M	9	16:10.8	5
+6	5: HS Men's Novice	Harlan	Schmaltz	Scripps Ranch HS	M	9	16:11.1	6
+7	5: HS Men's Novice	James	Melancon	Scripps Ranch HS	M	9	16:11.4	7
+8	5: HS Men's Novice	Cooper	Zlotnik	Point Loma HS	M	9	16:28.4	8
+9	5: HS Men's Novice	Hudson	Kenis	Scripps Ranch HS	M	9	16:40.5	9
+10	5: HS Men's Novice	Isaac	Olivos	Mira Mesa HS	M	9	16:41.8	10
+11	5: HS Men's Novice	Jack	Shin	Scripps Ranch HS	M	9	16:53.9	0
+12	5: HS Men's Novice	Kuro	Stanich	University City HS	M	9	16:59.0	
+13	5: HS Men's Novice	Charles	Mitchell	Point Loma HS	M	9	17:06.6	12
+14	5: HS Men's Novice	Mason	Thomas	Scripps Ranch HS	M	10	17:11.6	
+15	5: HS Men's Novice	Calvin	Millang	Patrick Henry HS	M	9	17:16.0	
+16	5: HS Men's Novice	Dalton	d'Almaine-Vedral	Mira Mesa HS	M	10	17:19.1	14
+17	5: HS Men's Novice	Gabriel	Shaffer	Scripps Ranch HS	M	9	17:20.4	
+18	5: HS Men's Novice	Evinn	Pamelar	Mira Mesa HS	M	10	17:22.7	15
+19	5: HS Men's Novice	Harold	Zlotnik	Point Loma HS	M	9	17:27.7	0
+20	5: HS Men's Novice	Beckett	Gilmour	Point Loma HS	M	9	17:28.7	
+21	5: HS Men's Novice	Jim	Yang	Scripps Ranch HS	M	10	17:29.2	
+22	5: HS Men's Novice	Leonardo	Escobedo	Cathedral Catholic HS	M	10	17:35.7	18
+23	5: HS Men's Novice	Garrett	Fordyce	Mira Mesa HS	M	9	17:36.2	19
+24	5: HS Men's Novice	Dante	Macina	Point Loma HS	M	10	17:41.5	
+25	5: HS Men's Novice	Jonah	Yee	University City HS	M	9	17:47.9	
+26	5: HS Men's Novice	Jack	Disch	Point Loma HS	M	10	17:52.3	
+27	5: HS Men's Novice	Kyle	Kriz	Mira Mesa HS	M	10	17:55.5	20
+28	5: HS Men's Novice	Arden	Aguilo	Mira Mesa HS	M	9	18:00.5	0
+29	5: HS Men's Novice	Jonathan	Danh	Mira Mesa HS	M	10	18:04.2	
+30	5: HS Men's Novice	Parsa	Mehrmashhadi	Scripps Ranch HS	M	9	18:04.7	
+31	5: HS Men's Novice	Gavin	Miller	Cathedral Catholic HS	M	11	18:05.1	23
+32	5: HS Men's Novice	Max	Aminoff	Point Loma HS	M	9	18:06.8	
+33	5: HS Men's Novice	Kai	Dalton	Point Loma HS	M	9	18:08.0	
+34	5: HS Men's Novice	Farris	Hammad	Point Loma HS	M	9	18:08.8	
+35	5: HS Men's Novice	Landon	Palmer	Point Loma HS	M	9	18:09.8	
+36	5: HS Men's Novice	Ryan	Phipps	Scripps Ranch HS	M	9	18:12.9	
+37	5: HS Men's Novice	Seeger	Perry	Cathedral Catholic HS	M	10	18:16.8	24
+38	5: HS Men's Novice	Travis	Tang	Cathedral Catholic HS	M	11	18:17.9	25
+39	5: HS Men's Novice	Isaac	Duran	Cathedral Catholic HS	M	11	18:19.5	26
+40	5: HS Men's Novice	Brian	Lee	Scripps Ranch HS	M	9	18:24.1	
+41	5: HS Men's Novice	Dominic	Willis	Scripps Ranch HS	M	10	18:24.4	
+42	5: HS Men's Novice	Lucas	Evans	Scripps Ranch HS	M	9	18:33.6	
+43	5: HS Men's Novice	Anthony	Slosar	Cathedral Catholic HS	M	9	18:38.0	0
+44	5: HS Men's Novice	Dylan	Arbogast	Cathedral Catholic HS	M	10	18:41.8	
+45	5: HS Men's Novice	Mateo	Sheehy	Point Loma HS	M	9	18:44.7	
+46	5: HS Men's Novice	Matteo	Briseno	Scripps Ranch HS	M	9	18:45.3	
+47	5: HS Men's Novice	Patrick	Rahilly	Point Loma HS	M	10	18:54.3	
+48	5: HS Men's Novice	Likhith	Nagesh Reddy	Scripps Ranch HS	M	10	18:55.1	
+49	5: HS Men's Novice	Jacob	Edison	Patrick Henry HS	M	10	18:56.4	
+50	5: HS Men's Novice	Colin	Ramsey	Point Loma HS	M	9	19:37.5	
+51	5: HS Men's Novice	Pratham	Tomar	Scripps Ranch HS	M	9	19:44.5	
+52	5: HS Men's Novice	Mason	Hanks	Scripps Ranch HS	M	9	19:46.9	
+53	5: HS Men's Novice	Samuel	Pastor	Scripps Ranch HS	M	9	19:57.7	
+54	5: HS Men's Novice	Jacen	Laco	Scripps Ranch HS	M	10	20:17.0	
+55	5: HS Men's Novice	Alexander	Herrera	University City HS	M	9	20:23.9	
+56	5: HS Men's Novice	Zachary	Treadwell	Point Loma HS	M	9	20:29.6	
+57	5: HS Men's Novice	Jacob	Abraham	Cathedral Catholic HS	M	9	21:10.2	
+58	5: HS Men's Novice	Jeffrey	Ding	Scripps Ranch HS	M	10	21:27.9	
+59	5: HS Men's Novice	Diego	Barrios-Barba	Cathedral Catholic HS	M	9	21:45.7	
+60	5: HS Men's Novice	Nico	Portillo	Cathedral Catholic HS	M	9	21:49.4	
+61	5: HS Men's Novice	Enrique	Gomez-Amuedo	Point Loma HS	M	10	21:51.6	
+62	5: HS Men's Novice	Daxon	Domingo	Scripps Ranch HS	M	9	22:17.2	
+63	5: HS Men's Novice	Shay	Giffen	Scripps Ranch HS	M	10	23:11.5	
+64	5: HS Men's Novice	Brian	Brown	University City HS	M	10	24:25.3	
+								
+Division	Place	Abbrev	School	Score				
+								
+5: HS Men's Novice	1	Point Loma HS		26				
+5: HS Men's Novice	2	Scripps Ranch HS		31				
+5: HS Men's Novice	3	Mira Mesa HS		78				
+5: HS Men's Novice	4	Cathedral Catholic HS		116				
+5: HS Men's Novice	5	University City HS		INC				
+5: HS Men's Novice	6	Patrick Henry HS		INC				

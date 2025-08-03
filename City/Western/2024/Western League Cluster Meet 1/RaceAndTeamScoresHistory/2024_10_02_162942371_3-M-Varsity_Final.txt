@@ -1,0 +1,60 @@
+Place	Division	FirstName	LastName	School	Gender	Year	Time	Score
+								
+1	3: HS Men's Varsity	Nathan	Wilber	Cathedral Catholic HS	M	11	16:07.8	1
+2	3: HS Men's Varsity	Benjamin	Stephens	Scripps Ranch HS	M	11	16:13.1	2
+3	3: HS Men's Varsity	Nathan	Bamford	Scripps Ranch HS	M	11	16:27.8	3
+4	3: HS Men's Varsity	Brandon	Sun	Scripps Ranch HS	M	11	16:34.0	4
+5	3: HS Men's Varsity	Ethan	Levine	Point Loma HS	M	11	16:38.0	5
+6	3: HS Men's Varsity	Jonah	Turner	Point Loma HS	M	10	16:51.9	6
+7	3: HS Men's Varsity	Aiden	Angeles	Cathedral Catholic HS	M	10	16:59.7	7
+8	3: HS Men's Varsity	Teddy	Lang	Cathedral Catholic HS	M	11	17:04.7	8
+9	3: HS Men's Varsity	Andrew	Martinez	Cathedral Catholic HS	M	11	17:15.1	9
+10	3: HS Men's Varsity	Ryan	Polk	Mira Mesa HS	M	10	17:16.4	
+11	3: HS Men's Varsity	Nico	Cruz	Scripps Ranch HS	M	10	17:21.6	10
+12	3: HS Men's Varsity	Jack	Loomis	Point Loma HS	M	11	17:24.8	11
+13	3: HS Men's Varsity	Olegs	DeFaria	Patrick Henry HS	M	10	17:26.0	12
+14	3: HS Men's Varsity	Noah	Case	University City HS	M	12	17:30.4	13
+15	3: HS Men's Varsity	Peter	DeGraziano	Mira Mesa HS	M	12	17:32.3	
+16	3: HS Men's Varsity	Zachary	Albers	Cathedral Catholic HS	M	10	17:33.4	14
+17	3: HS Men's Varsity	Makai	Labayen	Cathedral Catholic HS	M	11	17:37.3	0
+18	3: HS Men's Varsity	Owen	Pampo	Scripps Ranch HS	M	12	17:39.0	16
+19	3: HS Men's Varsity	Thijs	van Eldik Thieme	Scripps Ranch HS	M	12	17:43.0	0
+20	3: HS Men's Varsity	Liam	O'Connell	Scripps Ranch HS	M	10	17:44.0	
+21	3: HS Men's Varsity	Conner	Ransom	Cathedral Catholic HS	M	10	17:51.1	
+22	3: HS Men's Varsity	Devin	Gum	Scripps Ranch HS	M	12	17:52.7	
+23	3: HS Men's Varsity	Brian	McCaskill	Mira Mesa HS	M	11	17:55.8	
+24	3: HS Men's Varsity	Mason	Munn	Mira Mesa HS	M	10	18:01.6	
+25	3: HS Men's Varsity	Ian	Broadhead	Scripps Ranch HS	M	12	18:10.9	
+26	3: HS Men's Varsity	Maximus	Kelly	Point Loma HS	M	12	18:15.3	20
+27	3: HS Men's Varsity	Miles	Rackers	Scripps Ranch HS	M	12	18:15.8	
+28	3: HS Men's Varsity	Jacob	Oren-Winkler	Patrick Henry HS	M	10	18:16.5	21
+29	3: HS Men's Varsity	Baruch	Bejar	University City HS	M	9	18:20.2	22
+30	3: HS Men's Varsity	Wyatt	Williams	Cathedral Catholic HS	M	11	18:21.5	
+31	3: HS Men's Varsity	Devin	Liles	Scripps Ranch HS	M	10	18:22.4	
+32	3: HS Men's Varsity	Gabriel	Xavier	Point Loma HS	M	12	18:31.4	23
+33	3: HS Men's Varsity	John	Melancon	Scripps Ranch HS	M	11	18:31.9	
+34	3: HS Men's Varsity	Isaac	Moya	Patrick Henry HS	M	12	18:33.3	24
+35	3: HS Men's Varsity	Jaimie	Gonzalez	University City HS	M	11	18:37.0	25
+36	3: HS Men's Varsity	Seamus	Egan	Point Loma HS	M	10	18:37.7	0
+37	3: HS Men's Varsity	Beckett	Wilcox	Patrick Henry HS	M	12	18:41.0	27
+38	3: HS Men's Varsity	Theodor	Baker	Point Loma HS	M	11	19:02.3	
+39	3: HS Men's Varsity	William	Groesbeck	Point Loma HS	M	11	19:02.9	
+40	3: HS Men's Varsity	Hayato	Bott-Suzuki	University City HS	M	11	19:11.5	29
+41	3: HS Men's Varsity	Graham	Iannuzzi	Patrick Henry HS	M	11	19:14.3	30
+42	3: HS Men's Varsity	Diego Bear	Morales	Point Loma HS	M	10	19:15.4	
+43	3: HS Men's Varsity	Ramsis	Dessouky	Cathedral Catholic HS	M	12	19:15.9	
+44	3: HS Men's Varsity	Owen	Liss	Patrick Henry HS	M	9	19:16.2	0
+45	3: HS Men's Varsity	Sebastian	Karim	Patrick Henry HS	M	10	19:17.1	
+46	3: HS Men's Varsity	Elijah	Smith	Patrick Henry HS	M	10	19:19.4	
+47	3: HS Men's Varsity	Carter	Broadhead	Scripps Ranch HS	M	12	19:42.5	
+48	3: HS Men's Varsity	Trenton	Dong	University City HS	M	12	19:48.3	33
+49	3: HS Men's Varsity	Maximilian	Yu	Patrick Henry HS	M	10	19:52.6	
+								
+Division	Place	Abbrev	School	Score				
+								
+3: HS Men's Varsity	1	Scripps Ranch HS		35				
+3: HS Men's Varsity	2	Cathedral Catholic HS		39				
+3: HS Men's Varsity	3	Point Loma HS		65				
+3: HS Men's Varsity	4	Patrick Henry HS		114				
+3: HS Men's Varsity	5	University City HS		122				
+3: HS Men's Varsity	6	Mira Mesa HS		INC				
